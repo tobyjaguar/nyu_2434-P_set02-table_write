@@ -18,7 +18,7 @@ function genStudent(maxStudents, maxCourses, saveSize) {
   let courseName = '';
   let grade = 0;
 
-  let majors = ['cs', 'math', 'it'];
+  let majors = ['mscs', 'msis'];
   let departments = ['science'];
   let advisors = ['mcphearson', 'george'];
   let courseIds = [101,102,103,201,202,203,301,302,303]
@@ -40,7 +40,8 @@ function genStudent(maxStudents, maxCourses, saveSize) {
     name = chance.first();
     major = chance.pickone(majors);
     department = chance.pickone(departments);
-    advisor = chance.pickone(advisors);
+    advisor = major==='mscs' ? 'mcphearson' : 'george';
+
     for (let j = 0; j < maxCourses; j++) {
       //let stock = symbols[chance.integer({min:0, max: symbols.length - 1})];
       let courseIdx = chance.integer({min: 0, max: (courseIds.length - 1)});
@@ -59,6 +60,7 @@ function genStudent(maxStudents, maxCourses, saveSize) {
         content = '';
       }
     } // end record
+
   } // end student
 } // end gen
 
