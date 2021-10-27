@@ -1,600 +1,600 @@
-1,Joshua,msis,science,george,0,101,cs-intro,3.56
-1,Joshua,msis,science,george,0,203,it-intrm,2.81
-1,Joshua,msis,science,george,0,302,math-adv,2.14
-1,Joshua,msis,science,george,0,202,math-intrm,2.47
-1,Joshua,msis,science,george,0,201,cs-intrm,2.27
-1,Joshua,msis,science,george,0,301,cs-adv,3.59
-2,Cameron,msis,science,george,0,301,cs-adv,2.83
-2,Cameron,msis,science,george,0,202,math-intrm,3.45
-2,Cameron,msis,science,george,0,203,it-intrm,2.05
-2,Cameron,msis,science,george,0,302,math-adv,2.16
-2,Cameron,msis,science,george,0,201,cs-intrm,3.32
-2,Cameron,msis,science,george,0,302,math-adv,3.63
-3,Erik,mscs,science,mcphearson,0,103,it-intro,2.43
-3,Erik,mscs,science,mcphearson,0,102,math-intro,2.22
-3,Erik,mscs,science,mcphearson,0,203,it-intrm,3.76
-3,Erik,mscs,science,mcphearson,0,302,math-adv,3.73
-3,Erik,mscs,science,mcphearson,0,301,cs-adv,2.74
-3,Erik,mscs,science,mcphearson,0,102,math-intro,2.28
-4,Jackson,mscs,science,mcphearson,0,202,math-intrm,3.85
-4,Jackson,mscs,science,mcphearson,0,301,cs-adv,3.26
-4,Jackson,mscs,science,mcphearson,0,103,it-intro,2.16
-4,Jackson,mscs,science,mcphearson,0,302,math-adv,2.95
-4,Jackson,mscs,science,mcphearson,0,203,it-intrm,3.94
-4,Jackson,mscs,science,mcphearson,0,202,math-intrm,2.26
-5,Tom,msis,science,george,0,301,cs-adv,3.16
-5,Tom,msis,science,george,0,201,cs-intrm,4
-5,Tom,msis,science,george,0,303,it-adv,3.6
-5,Tom,msis,science,george,0,302,math-adv,3.31
-5,Tom,msis,science,george,0,101,cs-intro,2.42
-5,Tom,msis,science,george,0,202,math-intrm,3
-6,Joe,msis,science,george,0,202,math-intrm,2.02
-6,Joe,msis,science,george,0,201,cs-intrm,3.65
-6,Joe,msis,science,george,0,101,cs-intro,2.83
-6,Joe,msis,science,george,0,201,cs-intrm,3.39
-6,Joe,msis,science,george,0,202,math-intrm,3.81
-6,Joe,msis,science,george,0,301,cs-adv,3.73
-7,Lottie,msis,science,george,0,203,it-intrm,2.63
-7,Lottie,msis,science,george,0,203,it-intrm,2.95
-7,Lottie,msis,science,george,0,103,it-intro,3.38
-7,Lottie,msis,science,george,0,303,it-adv,3.72
-7,Lottie,msis,science,george,0,102,math-intro,2.23
-7,Lottie,msis,science,george,0,302,math-adv,3.91
-8,Ella,mscs,science,mcphearson,0,203,it-intrm,2.11
-8,Ella,mscs,science,mcphearson,0,302,math-adv,3.96
-8,Ella,mscs,science,mcphearson,0,103,it-intro,3.85
-8,Ella,mscs,science,mcphearson,0,103,it-intro,2.91
-8,Ella,mscs,science,mcphearson,0,202,math-intrm,3.28
-8,Ella,mscs,science,mcphearson,0,202,math-intrm,2
-9,Aaron,msis,science,george,0,201,cs-intrm,2.61
-9,Aaron,msis,science,george,0,203,it-intrm,2.75
-9,Aaron,msis,science,george,0,201,cs-intrm,2.51
-9,Aaron,msis,science,george,0,303,it-adv,3.07
-9,Aaron,msis,science,george,0,303,it-adv,2.9
-9,Aaron,msis,science,george,0,103,it-intro,3.88
-10,Oscar,mscs,science,mcphearson,0,203,it-intrm,2.74
-10,Oscar,mscs,science,mcphearson,0,103,it-intro,2.86
-10,Oscar,mscs,science,mcphearson,0,101,cs-intro,2.95
-10,Oscar,mscs,science,mcphearson,0,202,math-intrm,2.23
-10,Oscar,mscs,science,mcphearson,0,102,math-intro,2.69
-10,Oscar,mscs,science,mcphearson,0,302,math-adv,2.7
-11,Melvin,mscs,science,mcphearson,0,202,math-intrm,3.26
-11,Melvin,mscs,science,mcphearson,0,102,math-intro,2.89
-11,Melvin,mscs,science,mcphearson,0,301,cs-adv,3.29
-11,Melvin,mscs,science,mcphearson,0,302,math-adv,2.62
-11,Melvin,mscs,science,mcphearson,0,201,cs-intrm,3.54
-11,Melvin,mscs,science,mcphearson,0,102,math-intro,2.66
-12,Raymond,msis,science,george,0,202,math-intrm,3.44
-12,Raymond,msis,science,george,0,103,it-intro,3.87
-12,Raymond,msis,science,george,0,303,it-adv,3.28
-12,Raymond,msis,science,george,0,202,math-intrm,2.36
-12,Raymond,msis,science,george,0,102,math-intro,2.4
-12,Raymond,msis,science,george,0,201,cs-intrm,2.38
-13,Victoria,mscs,science,mcphearson,0,203,it-intrm,2.19
-13,Victoria,mscs,science,mcphearson,0,202,math-intrm,2.28
-13,Victoria,mscs,science,mcphearson,0,201,cs-intrm,3.89
-13,Victoria,mscs,science,mcphearson,0,201,cs-intrm,3.36
-13,Victoria,mscs,science,mcphearson,0,303,it-adv,3.21
-13,Victoria,mscs,science,mcphearson,0,203,it-intrm,3.1
-14,Carrie,mscs,science,mcphearson,0,201,cs-intrm,3.72
-14,Carrie,mscs,science,mcphearson,0,101,cs-intro,2.23
-14,Carrie,mscs,science,mcphearson,0,102,math-intro,3.33
-14,Carrie,mscs,science,mcphearson,0,203,it-intrm,3.82
-14,Carrie,mscs,science,mcphearson,0,203,it-intrm,2.86
-14,Carrie,mscs,science,mcphearson,0,201,cs-intrm,3.8
-15,Lester,msis,science,george,0,201,cs-intrm,2.89
-15,Lester,msis,science,george,0,303,it-adv,3.31
-15,Lester,msis,science,george,0,103,it-intro,3.29
-15,Lester,msis,science,george,0,303,it-adv,2.65
-15,Lester,msis,science,george,0,301,cs-adv,2.84
-15,Lester,msis,science,george,0,301,cs-adv,3.51
-16,Christine,mscs,science,mcphearson,0,102,math-intro,2.19
-16,Christine,mscs,science,mcphearson,0,302,math-adv,3.21
-16,Christine,mscs,science,mcphearson,0,102,math-intro,3.1
-16,Christine,mscs,science,mcphearson,0,303,it-adv,2.26
-16,Christine,mscs,science,mcphearson,0,301,cs-adv,3.09
-16,Christine,mscs,science,mcphearson,0,102,math-intro,2.4
-17,Jerry,mscs,science,mcphearson,0,302,math-adv,3.61
-17,Jerry,mscs,science,mcphearson,0,202,math-intrm,2.51
-17,Jerry,mscs,science,mcphearson,0,202,math-intrm,2.44
-17,Jerry,mscs,science,mcphearson,0,101,cs-intro,3.02
-17,Jerry,mscs,science,mcphearson,0,102,math-intro,3.34
-17,Jerry,mscs,science,mcphearson,0,303,it-adv,2.57
-18,Leah,msis,science,george,0,301,cs-adv,2.41
-18,Leah,msis,science,george,0,203,it-intrm,2.86
-18,Leah,msis,science,george,0,303,it-adv,2.93
-18,Leah,msis,science,george,0,301,cs-adv,3.87
-18,Leah,msis,science,george,0,203,it-intrm,2.08
-18,Leah,msis,science,george,0,202,math-intrm,2.19
-19,Helena,msis,science,george,0,201,cs-intrm,3.22
-19,Helena,msis,science,george,0,303,it-adv,2.09
-19,Helena,msis,science,george,0,103,it-intro,2.35
-19,Helena,msis,science,george,0,302,math-adv,2.24
-19,Helena,msis,science,george,0,302,math-adv,2.4
-19,Helena,msis,science,george,0,302,math-adv,3.26
-20,Marvin,msis,science,george,0,203,it-intrm,3.86
-20,Marvin,msis,science,george,0,302,math-adv,2.84
-20,Marvin,msis,science,george,0,203,it-intrm,3.63
-20,Marvin,msis,science,george,0,101,cs-intro,2.92
-20,Marvin,msis,science,george,0,202,math-intrm,3.48
-20,Marvin,msis,science,george,0,102,math-intro,2.18
-21,Jeremiah,msis,science,george,0,102,math-intro,3.36
-21,Jeremiah,msis,science,george,0,303,it-adv,3.57
-21,Jeremiah,msis,science,george,0,302,math-adv,2.42
-21,Jeremiah,msis,science,george,0,103,it-intro,3.72
-21,Jeremiah,msis,science,george,0,201,cs-intrm,2.55
-21,Jeremiah,msis,science,george,0,202,math-intrm,3.27
-22,Louisa,msis,science,george,0,302,math-adv,3.99
-22,Louisa,msis,science,george,0,201,cs-intrm,3.45
-22,Louisa,msis,science,george,0,301,cs-adv,3.71
-22,Louisa,msis,science,george,0,303,it-adv,2.57
-22,Louisa,msis,science,george,0,101,cs-intro,2.27
-22,Louisa,msis,science,george,0,203,it-intrm,3.02
-23,Kenneth,mscs,science,mcphearson,0,303,it-adv,2.68
-23,Kenneth,mscs,science,mcphearson,0,103,it-intro,2.29
-23,Kenneth,mscs,science,mcphearson,0,203,it-intrm,3.86
-23,Kenneth,mscs,science,mcphearson,0,102,math-intro,2.37
-23,Kenneth,mscs,science,mcphearson,0,303,it-adv,3.79
-23,Kenneth,mscs,science,mcphearson,0,302,math-adv,3.12
-24,Lela,msis,science,george,0,102,math-intro,2.49
-24,Lela,msis,science,george,0,201,cs-intrm,2.03
-24,Lela,msis,science,george,0,202,math-intrm,3.16
-24,Lela,msis,science,george,0,301,cs-adv,2.3
-24,Lela,msis,science,george,0,102,math-intro,3.56
-24,Lela,msis,science,george,0,303,it-adv,3.93
-25,Martin,mscs,science,mcphearson,0,103,it-intro,3.32
-25,Martin,mscs,science,mcphearson,0,301,cs-adv,3.07
-25,Martin,mscs,science,mcphearson,0,103,it-intro,3.08
-25,Martin,mscs,science,mcphearson,0,201,cs-intrm,3.74
-25,Martin,mscs,science,mcphearson,0,301,cs-adv,2.55
-25,Martin,mscs,science,mcphearson,0,301,cs-adv,3.37
-26,Dennis,msis,science,george,0,201,cs-intrm,2.42
-26,Dennis,msis,science,george,0,303,it-adv,2.61
-26,Dennis,msis,science,george,0,102,math-intro,2.26
-26,Dennis,msis,science,george,0,301,cs-adv,3.29
-26,Dennis,msis,science,george,0,102,math-intro,3.33
-26,Dennis,msis,science,george,0,201,cs-intrm,2.25
-27,Laura,msis,science,george,0,203,it-intrm,2.71
-27,Laura,msis,science,george,0,102,math-intro,2.42
-27,Laura,msis,science,george,0,201,cs-intrm,3.17
-27,Laura,msis,science,george,0,301,cs-adv,2.53
-27,Laura,msis,science,george,0,301,cs-adv,3.64
-27,Laura,msis,science,george,0,103,it-intro,3.56
-28,Alta,msis,science,george,0,301,cs-adv,3.38
-28,Alta,msis,science,george,0,301,cs-adv,2.53
-28,Alta,msis,science,george,0,203,it-intrm,2.35
-28,Alta,msis,science,george,0,303,it-adv,3.37
-28,Alta,msis,science,george,0,202,math-intrm,2.36
-28,Alta,msis,science,george,0,102,math-intro,2.5
-29,Virginia,mscs,science,mcphearson,0,301,cs-adv,3.17
-29,Virginia,mscs,science,mcphearson,0,102,math-intro,2.24
-29,Virginia,mscs,science,mcphearson,0,103,it-intro,2.33
-29,Virginia,mscs,science,mcphearson,0,203,it-intrm,3.52
-29,Virginia,mscs,science,mcphearson,0,103,it-intro,2.18
-29,Virginia,mscs,science,mcphearson,0,303,it-adv,2.05
-30,Joshua,mscs,science,mcphearson,0,201,cs-intrm,2.54
-30,Joshua,mscs,science,mcphearson,0,203,it-intrm,2.96
-30,Joshua,mscs,science,mcphearson,0,101,cs-intro,3.16
-30,Joshua,mscs,science,mcphearson,0,303,it-adv,2.7
-30,Joshua,mscs,science,mcphearson,0,101,cs-intro,2.12
-30,Joshua,mscs,science,mcphearson,0,303,it-adv,3.82
-31,Dollie,mscs,science,mcphearson,0,101,cs-intro,2.03
-31,Dollie,mscs,science,mcphearson,0,201,cs-intrm,2.51
-31,Dollie,mscs,science,mcphearson,0,201,cs-intrm,2.55
-31,Dollie,mscs,science,mcphearson,0,101,cs-intro,3.24
-31,Dollie,mscs,science,mcphearson,0,303,it-adv,3.08
-31,Dollie,mscs,science,mcphearson,0,302,math-adv,2.02
-32,Bettie,mscs,science,mcphearson,0,201,cs-intrm,2.23
-32,Bettie,mscs,science,mcphearson,0,301,cs-adv,3.08
-32,Bettie,mscs,science,mcphearson,0,103,it-intro,3.98
-32,Bettie,mscs,science,mcphearson,0,303,it-adv,3.03
-32,Bettie,mscs,science,mcphearson,0,103,it-intro,3.86
-32,Bettie,mscs,science,mcphearson,0,202,math-intrm,2.06
-33,William,mscs,science,mcphearson,0,202,math-intrm,2.89
-33,William,mscs,science,mcphearson,0,301,cs-adv,3.76
-33,William,mscs,science,mcphearson,0,203,it-intrm,3.03
-33,William,mscs,science,mcphearson,0,303,it-adv,3.05
-33,William,mscs,science,mcphearson,0,301,cs-adv,3.79
-33,William,mscs,science,mcphearson,0,303,it-adv,3.23
-34,Alex,msis,science,george,0,302,math-adv,2.64
-34,Alex,msis,science,george,0,303,it-adv,3.53
-34,Alex,msis,science,george,0,301,cs-adv,3.28
-34,Alex,msis,science,george,0,301,cs-adv,3.04
-34,Alex,msis,science,george,0,101,cs-intro,2.83
-34,Alex,msis,science,george,0,203,it-intrm,3.09
-35,Alfred,msis,science,george,0,203,it-intrm,2.88
-35,Alfred,msis,science,george,0,101,cs-intro,2.78
-35,Alfred,msis,science,george,0,301,cs-adv,3.11
-35,Alfred,msis,science,george,0,201,cs-intrm,3.65
-35,Alfred,msis,science,george,0,302,math-adv,2.75
-35,Alfred,msis,science,george,0,102,math-intro,2.39
-36,Lois,msis,science,george,0,201,cs-intrm,2.4
-36,Lois,msis,science,george,0,101,cs-intro,2.4
-36,Lois,msis,science,george,0,101,cs-intro,2.55
-36,Lois,msis,science,george,0,201,cs-intrm,3.77
-36,Lois,msis,science,george,0,301,cs-adv,3.2
-36,Lois,msis,science,george,0,202,math-intrm,3.43
-37,Lucas,msis,science,george,0,301,cs-adv,2.44
-37,Lucas,msis,science,george,0,302,math-adv,3.1
-37,Lucas,msis,science,george,0,202,math-intrm,2.43
-37,Lucas,msis,science,george,0,301,cs-adv,3.58
-37,Lucas,msis,science,george,0,103,it-intro,2.7
-37,Lucas,msis,science,george,0,103,it-intro,3.93
-38,Lizzie,mscs,science,mcphearson,0,101,cs-intro,2.83
-38,Lizzie,mscs,science,mcphearson,0,103,it-intro,3.38
-38,Lizzie,mscs,science,mcphearson,0,102,math-intro,2.4
-38,Lizzie,mscs,science,mcphearson,0,303,it-adv,2.22
-38,Lizzie,mscs,science,mcphearson,0,201,cs-intrm,3.01
-38,Lizzie,mscs,science,mcphearson,0,202,math-intrm,3.59
-39,Clifford,mscs,science,mcphearson,0,102,math-intro,3.09
-39,Clifford,mscs,science,mcphearson,0,203,it-intrm,2.84
-39,Clifford,mscs,science,mcphearson,0,103,it-intro,2.9
-39,Clifford,mscs,science,mcphearson,0,201,cs-intrm,2.5
-39,Clifford,mscs,science,mcphearson,0,201,cs-intrm,2.26
-39,Clifford,mscs,science,mcphearson,0,202,math-intrm,3.71
-40,Andre,mscs,science,mcphearson,0,103,it-intro,3.58
-40,Andre,mscs,science,mcphearson,0,302,math-adv,3.21
-40,Andre,mscs,science,mcphearson,0,303,it-adv,3.74
-40,Andre,mscs,science,mcphearson,0,302,math-adv,3.21
-40,Andre,mscs,science,mcphearson,0,203,it-intrm,2.41
-40,Andre,mscs,science,mcphearson,0,103,it-intro,2.86
-41,Adele,msis,science,george,0,201,cs-intrm,2.47
-41,Adele,msis,science,george,0,302,math-adv,2.68
-41,Adele,msis,science,george,0,202,math-intrm,3.16
-41,Adele,msis,science,george,0,302,math-adv,2.76
-41,Adele,msis,science,george,0,101,cs-intro,2.99
-41,Adele,msis,science,george,0,302,math-adv,2.08
-42,Clifford,mscs,science,mcphearson,0,302,math-adv,3.49
-42,Clifford,mscs,science,mcphearson,0,103,it-intro,3.58
-42,Clifford,mscs,science,mcphearson,0,102,math-intro,2.91
-42,Clifford,mscs,science,mcphearson,0,302,math-adv,3.77
-42,Clifford,mscs,science,mcphearson,0,101,cs-intro,2.59
-42,Clifford,mscs,science,mcphearson,0,301,cs-adv,3.56
-43,Olivia,mscs,science,mcphearson,0,303,it-adv,3.88
-43,Olivia,mscs,science,mcphearson,0,102,math-intro,3.89
-43,Olivia,mscs,science,mcphearson,0,301,cs-adv,2.6
-43,Olivia,mscs,science,mcphearson,0,101,cs-intro,2.98
-43,Olivia,mscs,science,mcphearson,0,302,math-adv,3.37
-43,Olivia,mscs,science,mcphearson,0,201,cs-intrm,2.1
-44,Grace,msis,science,george,0,103,it-intro,2.02
-44,Grace,msis,science,george,0,301,cs-adv,2.08
-44,Grace,msis,science,george,0,103,it-intro,2.57
-44,Grace,msis,science,george,0,202,math-intrm,3.87
-44,Grace,msis,science,george,0,201,cs-intrm,2.54
-44,Grace,msis,science,george,0,102,math-intro,2.22
-45,Jessie,mscs,science,mcphearson,0,101,cs-intro,2.63
-45,Jessie,mscs,science,mcphearson,0,103,it-intro,3.82
-45,Jessie,mscs,science,mcphearson,0,102,math-intro,2.55
-45,Jessie,mscs,science,mcphearson,0,201,cs-intrm,2.7
-45,Jessie,mscs,science,mcphearson,0,302,math-adv,3.87
-45,Jessie,mscs,science,mcphearson,0,102,math-intro,3.51
-46,Arthur,msis,science,george,0,103,it-intro,2.53
-46,Arthur,msis,science,george,0,102,math-intro,2.65
-46,Arthur,msis,science,george,0,301,cs-adv,2.72
-46,Arthur,msis,science,george,0,303,it-adv,2.91
-46,Arthur,msis,science,george,0,102,math-intro,2.85
-46,Arthur,msis,science,george,0,103,it-intro,2.17
-47,Dorothy,msis,science,george,0,302,math-adv,3.29
-47,Dorothy,msis,science,george,0,303,it-adv,2.37
-47,Dorothy,msis,science,george,0,203,it-intrm,2.21
-47,Dorothy,msis,science,george,0,302,math-adv,3.77
-47,Dorothy,msis,science,george,0,202,math-intrm,3.19
-47,Dorothy,msis,science,george,0,201,cs-intrm,3.42
-48,Chris,msis,science,george,0,202,math-intrm,3.28
-48,Chris,msis,science,george,0,302,math-adv,3.25
-48,Chris,msis,science,george,0,303,it-adv,2.36
-48,Chris,msis,science,george,0,201,cs-intrm,2.39
-48,Chris,msis,science,george,0,303,it-adv,3.96
-48,Chris,msis,science,george,0,103,it-intro,2.43
-49,Isabelle,mscs,science,mcphearson,0,101,cs-intro,3.62
-49,Isabelle,mscs,science,mcphearson,0,303,it-adv,2.27
-49,Isabelle,mscs,science,mcphearson,0,301,cs-adv,2.42
-49,Isabelle,mscs,science,mcphearson,0,303,it-adv,2.89
-49,Isabelle,mscs,science,mcphearson,0,201,cs-intrm,2.61
-49,Isabelle,mscs,science,mcphearson,0,103,it-intro,3.39
-50,Trevor,msis,science,george,0,201,cs-intrm,2.71
-50,Trevor,msis,science,george,0,303,it-adv,3.19
-50,Trevor,msis,science,george,0,301,cs-adv,2.95
-50,Trevor,msis,science,george,0,303,it-adv,3.7
-50,Trevor,msis,science,george,0,102,math-intro,2.06
-50,Trevor,msis,science,george,0,203,it-intrm,3.65
-51,Jared,mscs,science,mcphearson,0,102,math-intro,2.7
-51,Jared,mscs,science,mcphearson,0,201,cs-intrm,2.41
-51,Jared,mscs,science,mcphearson,0,202,math-intrm,3.22
-51,Jared,mscs,science,mcphearson,0,302,math-adv,2.18
-51,Jared,mscs,science,mcphearson,0,102,math-intro,2.64
-51,Jared,mscs,science,mcphearson,0,203,it-intrm,3.33
-52,Randy,msis,science,george,0,102,math-intro,3.04
-52,Randy,msis,science,george,0,303,it-adv,3.08
-52,Randy,msis,science,george,0,103,it-intro,3.64
-52,Randy,msis,science,george,0,101,cs-intro,3.02
-52,Randy,msis,science,george,0,203,it-intrm,3.84
-52,Randy,msis,science,george,0,301,cs-adv,3.61
-53,Jeff,mscs,science,mcphearson,0,302,math-adv,2.7
-53,Jeff,mscs,science,mcphearson,0,302,math-adv,3.9
-53,Jeff,mscs,science,mcphearson,0,101,cs-intro,3.34
-53,Jeff,mscs,science,mcphearson,0,303,it-adv,3.95
-53,Jeff,mscs,science,mcphearson,0,302,math-adv,3.66
-53,Jeff,mscs,science,mcphearson,0,302,math-adv,2.67
-54,Maggie,msis,science,george,0,103,it-intro,2.64
-54,Maggie,msis,science,george,0,203,it-intrm,2.16
-54,Maggie,msis,science,george,0,102,math-intro,3.37
-54,Maggie,msis,science,george,0,101,cs-intro,2.84
-54,Maggie,msis,science,george,0,202,math-intrm,2.41
-54,Maggie,msis,science,george,0,201,cs-intrm,2.18
-55,Ina,mscs,science,mcphearson,0,101,cs-intro,3.17
-55,Ina,mscs,science,mcphearson,0,302,math-adv,3.85
-55,Ina,mscs,science,mcphearson,0,103,it-intro,3.93
-55,Ina,mscs,science,mcphearson,0,303,it-adv,2.94
-55,Ina,mscs,science,mcphearson,0,203,it-intrm,2.81
-55,Ina,mscs,science,mcphearson,0,201,cs-intrm,3.31
-56,Jerry,msis,science,george,0,102,math-intro,2.57
-56,Jerry,msis,science,george,0,203,it-intrm,2.12
-56,Jerry,msis,science,george,0,101,cs-intro,3.16
-56,Jerry,msis,science,george,0,101,cs-intro,2.34
-56,Jerry,msis,science,george,0,101,cs-intro,3.8
-56,Jerry,msis,science,george,0,103,it-intro,3.19
-57,Pearl,mscs,science,mcphearson,0,202,math-intrm,2.32
-57,Pearl,mscs,science,mcphearson,0,202,math-intrm,3.96
-57,Pearl,mscs,science,mcphearson,0,101,cs-intro,2.26
-57,Pearl,mscs,science,mcphearson,0,201,cs-intrm,3.83
-57,Pearl,mscs,science,mcphearson,0,202,math-intrm,3.13
-57,Pearl,mscs,science,mcphearson,0,302,math-adv,3.98
-58,Christian,mscs,science,mcphearson,0,302,math-adv,3.5
-58,Christian,mscs,science,mcphearson,0,301,cs-adv,2.91
-58,Christian,mscs,science,mcphearson,0,302,math-adv,3.18
-58,Christian,mscs,science,mcphearson,0,103,it-intro,2.72
-58,Christian,mscs,science,mcphearson,0,103,it-intro,3
-58,Christian,mscs,science,mcphearson,0,302,math-adv,2.55
-59,Delia,mscs,science,mcphearson,0,103,it-intro,2.21
-59,Delia,mscs,science,mcphearson,0,201,cs-intrm,2.47
-59,Delia,mscs,science,mcphearson,0,102,math-intro,2.82
-59,Delia,mscs,science,mcphearson,0,202,math-intrm,2.12
-59,Delia,mscs,science,mcphearson,0,102,math-intro,2.5
-59,Delia,mscs,science,mcphearson,0,303,it-adv,2.04
-60,Jerome,mscs,science,mcphearson,0,203,it-intrm,3.84
-60,Jerome,mscs,science,mcphearson,0,101,cs-intro,2.43
-60,Jerome,mscs,science,mcphearson,0,203,it-intrm,2.94
-60,Jerome,mscs,science,mcphearson,0,203,it-intrm,2.52
-60,Jerome,mscs,science,mcphearson,0,303,it-adv,3.96
-60,Jerome,mscs,science,mcphearson,0,101,cs-intro,3.31
-61,Luis,mscs,science,mcphearson,0,303,it-adv,3.22
-61,Luis,mscs,science,mcphearson,0,103,it-intro,3.1
-61,Luis,mscs,science,mcphearson,0,303,it-adv,3.94
-61,Luis,mscs,science,mcphearson,0,101,cs-intro,2.16
-61,Luis,mscs,science,mcphearson,0,102,math-intro,2.62
-61,Luis,mscs,science,mcphearson,0,301,cs-adv,3.61
-62,Marc,mscs,science,mcphearson,0,102,math-intro,3.36
-62,Marc,mscs,science,mcphearson,0,301,cs-adv,3.16
-62,Marc,mscs,science,mcphearson,0,203,it-intrm,3.8
-62,Marc,mscs,science,mcphearson,0,202,math-intrm,2.3
-62,Marc,mscs,science,mcphearson,0,101,cs-intro,2.34
-62,Marc,mscs,science,mcphearson,0,201,cs-intrm,3.95
-63,Shawn,mscs,science,mcphearson,0,101,cs-intro,2.6
-63,Shawn,mscs,science,mcphearson,0,303,it-adv,2.06
-63,Shawn,mscs,science,mcphearson,0,201,cs-intrm,3.8
-63,Shawn,mscs,science,mcphearson,0,302,math-adv,2.99
-63,Shawn,mscs,science,mcphearson,0,101,cs-intro,2.63
-63,Shawn,mscs,science,mcphearson,0,303,it-adv,2.06
-64,Alejandro,mscs,science,mcphearson,0,302,math-adv,2.77
-64,Alejandro,mscs,science,mcphearson,0,203,it-intrm,2.65
-64,Alejandro,mscs,science,mcphearson,0,101,cs-intro,2.55
-64,Alejandro,mscs,science,mcphearson,0,203,it-intrm,2.56
-64,Alejandro,mscs,science,mcphearson,0,201,cs-intrm,3.77
-64,Alejandro,mscs,science,mcphearson,0,201,cs-intrm,2.94
-65,Matilda,msis,science,george,0,303,it-adv,2.45
-65,Matilda,msis,science,george,0,301,cs-adv,2.77
-65,Matilda,msis,science,george,0,302,math-adv,2.42
-65,Matilda,msis,science,george,0,301,cs-adv,3.76
-65,Matilda,msis,science,george,0,302,math-adv,3.16
-65,Matilda,msis,science,george,0,103,it-intro,2.13
-66,Douglas,msis,science,george,0,301,cs-adv,3.45
-66,Douglas,msis,science,george,0,101,cs-intro,3.55
-66,Douglas,msis,science,george,0,201,cs-intrm,3.22
-66,Douglas,msis,science,george,0,203,it-intrm,2.18
-66,Douglas,msis,science,george,0,203,it-intrm,2.12
-66,Douglas,msis,science,george,0,103,it-intro,3.68
-67,Bessie,mscs,science,mcphearson,0,102,math-intro,2.13
-67,Bessie,mscs,science,mcphearson,0,202,math-intrm,2.92
-67,Bessie,mscs,science,mcphearson,0,303,it-adv,3.11
-67,Bessie,mscs,science,mcphearson,0,301,cs-adv,3.55
-67,Bessie,mscs,science,mcphearson,0,301,cs-adv,2.12
-67,Bessie,mscs,science,mcphearson,0,201,cs-intrm,3.97
-68,Vincent,mscs,science,mcphearson,0,301,cs-adv,3.06
-68,Vincent,mscs,science,mcphearson,0,103,it-intro,2.37
-68,Vincent,mscs,science,mcphearson,0,201,cs-intrm,2.47
-68,Vincent,mscs,science,mcphearson,0,103,it-intro,2.49
-68,Vincent,mscs,science,mcphearson,0,201,cs-intrm,3.08
-68,Vincent,mscs,science,mcphearson,0,301,cs-adv,2.61
-69,Cody,msis,science,george,0,203,it-intrm,2.4
-69,Cody,msis,science,george,0,303,it-adv,3.46
-69,Cody,msis,science,george,0,101,cs-intro,2.59
-69,Cody,msis,science,george,0,103,it-intro,2.69
-69,Cody,msis,science,george,0,203,it-intrm,2.36
-69,Cody,msis,science,george,0,201,cs-intrm,2.53
-70,Tom,mscs,science,mcphearson,0,301,cs-adv,2.84
-70,Tom,mscs,science,mcphearson,0,103,it-intro,3.09
-70,Tom,mscs,science,mcphearson,0,203,it-intrm,2.38
-70,Tom,mscs,science,mcphearson,0,103,it-intro,3.66
-70,Tom,mscs,science,mcphearson,0,201,cs-intrm,3.34
-70,Tom,mscs,science,mcphearson,0,301,cs-adv,3.28
-71,Lina,mscs,science,mcphearson,0,201,cs-intrm,3.52
-71,Lina,mscs,science,mcphearson,0,101,cs-intro,3.7
-71,Lina,mscs,science,mcphearson,0,201,cs-intrm,3.27
-71,Lina,mscs,science,mcphearson,0,101,cs-intro,2.49
-71,Lina,mscs,science,mcphearson,0,203,it-intrm,2.18
-71,Lina,mscs,science,mcphearson,0,202,math-intrm,3.64
-72,Justin,msis,science,george,0,201,cs-intrm,2.22
-72,Justin,msis,science,george,0,301,cs-adv,3.56
-72,Justin,msis,science,george,0,201,cs-intrm,3.65
-72,Justin,msis,science,george,0,102,math-intro,2.86
-72,Justin,msis,science,george,0,302,math-adv,2.24
-72,Justin,msis,science,george,0,102,math-intro,3.68
-73,Sophie,mscs,science,mcphearson,0,203,it-intrm,3.96
-73,Sophie,mscs,science,mcphearson,0,202,math-intrm,3.33
-73,Sophie,mscs,science,mcphearson,0,202,math-intrm,2.41
-73,Sophie,mscs,science,mcphearson,0,101,cs-intro,3.84
-73,Sophie,mscs,science,mcphearson,0,303,it-adv,2.96
-73,Sophie,mscs,science,mcphearson,0,303,it-adv,3.4
-74,Ida,msis,science,george,0,102,math-intro,3.6
-74,Ida,msis,science,george,0,202,math-intrm,3.84
-74,Ida,msis,science,george,0,203,it-intrm,2.03
-74,Ida,msis,science,george,0,201,cs-intrm,2.74
-74,Ida,msis,science,george,0,302,math-adv,2.66
-74,Ida,msis,science,george,0,302,math-adv,3.61
-75,Adam,mscs,science,mcphearson,0,203,it-intrm,2.86
-75,Adam,mscs,science,mcphearson,0,102,math-intro,3.45
-75,Adam,mscs,science,mcphearson,0,203,it-intrm,2.18
-75,Adam,mscs,science,mcphearson,0,203,it-intrm,2.78
-75,Adam,mscs,science,mcphearson,0,302,math-adv,2.5
-75,Adam,mscs,science,mcphearson,0,302,math-adv,3.67
-76,Allen,mscs,science,mcphearson,0,202,math-intrm,3.1
-76,Allen,mscs,science,mcphearson,0,202,math-intrm,3.57
-76,Allen,mscs,science,mcphearson,0,302,math-adv,2.08
-76,Allen,mscs,science,mcphearson,0,101,cs-intro,3.36
-76,Allen,mscs,science,mcphearson,0,101,cs-intro,2.14
-76,Allen,mscs,science,mcphearson,0,303,it-adv,2.39
-77,Kevin,msis,science,george,0,201,cs-intrm,3
-77,Kevin,msis,science,george,0,202,math-intrm,3.09
-77,Kevin,msis,science,george,0,201,cs-intrm,2.96
-77,Kevin,msis,science,george,0,102,math-intro,2.34
-77,Kevin,msis,science,george,0,301,cs-adv,2.48
-77,Kevin,msis,science,george,0,102,math-intro,2.21
-78,Ellen,mscs,science,mcphearson,0,202,math-intrm,3.64
-78,Ellen,mscs,science,mcphearson,0,303,it-adv,3.7
-78,Ellen,mscs,science,mcphearson,0,202,math-intrm,2.51
-78,Ellen,mscs,science,mcphearson,0,201,cs-intrm,3.58
-78,Ellen,mscs,science,mcphearson,0,102,math-intro,2.18
-78,Ellen,mscs,science,mcphearson,0,202,math-intrm,3.28
-79,Mildred,msis,science,george,0,302,math-adv,3.89
-79,Mildred,msis,science,george,0,201,cs-intrm,3.75
-79,Mildred,msis,science,george,0,301,cs-adv,3.32
-79,Mildred,msis,science,george,0,201,cs-intrm,3.01
-79,Mildred,msis,science,george,0,201,cs-intrm,3.5
-79,Mildred,msis,science,george,0,103,it-intro,3.6
-80,Dale,msis,science,george,0,103,it-intro,3.75
-80,Dale,msis,science,george,0,103,it-intro,2.59
-80,Dale,msis,science,george,0,202,math-intrm,3.65
-80,Dale,msis,science,george,0,203,it-intrm,2.8
-80,Dale,msis,science,george,0,102,math-intro,2.59
-80,Dale,msis,science,george,0,201,cs-intrm,2.69
-81,Adrian,mscs,science,mcphearson,0,103,it-intro,2
-81,Adrian,mscs,science,mcphearson,0,203,it-intrm,3.12
-81,Adrian,mscs,science,mcphearson,0,101,cs-intro,2.84
-81,Adrian,mscs,science,mcphearson,0,201,cs-intrm,2.27
-81,Adrian,mscs,science,mcphearson,0,201,cs-intrm,3.18
-81,Adrian,mscs,science,mcphearson,0,303,it-adv,3.06
-82,Brandon,mscs,science,mcphearson,0,203,it-intrm,3.78
-82,Brandon,mscs,science,mcphearson,0,203,it-intrm,2.96
-82,Brandon,mscs,science,mcphearson,0,103,it-intro,3.04
-82,Brandon,mscs,science,mcphearson,0,102,math-intro,3.04
-82,Brandon,mscs,science,mcphearson,0,301,cs-adv,2.99
-82,Brandon,mscs,science,mcphearson,0,103,it-intro,3.17
-83,Genevieve,mscs,science,mcphearson,0,101,cs-intro,3.14
-83,Genevieve,mscs,science,mcphearson,0,101,cs-intro,3.79
-83,Genevieve,mscs,science,mcphearson,0,303,it-adv,3.07
-83,Genevieve,mscs,science,mcphearson,0,102,math-intro,3.26
-83,Genevieve,mscs,science,mcphearson,0,203,it-intrm,2.65
-83,Genevieve,mscs,science,mcphearson,0,203,it-intrm,2.38
-84,Maud,mscs,science,mcphearson,0,302,math-adv,2.84
-84,Maud,mscs,science,mcphearson,0,202,math-intrm,3.94
-84,Maud,mscs,science,mcphearson,0,302,math-adv,2.93
-84,Maud,mscs,science,mcphearson,0,303,it-adv,2.61
-84,Maud,mscs,science,mcphearson,0,101,cs-intro,3.04
-84,Maud,mscs,science,mcphearson,0,202,math-intrm,2.45
-85,Glen,msis,science,george,0,303,it-adv,3.37
-85,Glen,msis,science,george,0,203,it-intrm,3.11
-85,Glen,msis,science,george,0,201,cs-intrm,2.72
-85,Glen,msis,science,george,0,302,math-adv,3.58
-85,Glen,msis,science,george,0,302,math-adv,2.75
-85,Glen,msis,science,george,0,303,it-adv,3.46
-86,Ryan,msis,science,george,0,301,cs-adv,3.41
-86,Ryan,msis,science,george,0,102,math-intro,3.31
-86,Ryan,msis,science,george,0,101,cs-intro,3.04
-86,Ryan,msis,science,george,0,203,it-intrm,3.14
-86,Ryan,msis,science,george,0,101,cs-intro,2.74
-86,Ryan,msis,science,george,0,203,it-intrm,2.2
-87,Antonio,msis,science,george,0,301,cs-adv,3.3
-87,Antonio,msis,science,george,0,103,it-intro,2.54
-87,Antonio,msis,science,george,0,203,it-intrm,2.07
-87,Antonio,msis,science,george,0,201,cs-intrm,2.28
-87,Antonio,msis,science,george,0,102,math-intro,2.48
-87,Antonio,msis,science,george,0,101,cs-intro,2.7
-88,Abbie,mscs,science,mcphearson,0,103,it-intro,2.55
-88,Abbie,mscs,science,mcphearson,0,302,math-adv,3.28
-88,Abbie,mscs,science,mcphearson,0,203,it-intrm,2.8
-88,Abbie,mscs,science,mcphearson,0,203,it-intrm,2.12
-88,Abbie,mscs,science,mcphearson,0,303,it-adv,2.12
-88,Abbie,mscs,science,mcphearson,0,202,math-intrm,3.71
-89,Mark,msis,science,george,0,202,math-intrm,3.2
-89,Mark,msis,science,george,0,101,cs-intro,2.25
-89,Mark,msis,science,george,0,102,math-intro,3.6
-89,Mark,msis,science,george,0,101,cs-intro,2.08
-89,Mark,msis,science,george,0,202,math-intrm,2.86
-89,Mark,msis,science,george,0,103,it-intro,2.74
-90,Carolyn,mscs,science,mcphearson,0,101,cs-intro,3.41
-90,Carolyn,mscs,science,mcphearson,0,203,it-intrm,2.23
-90,Carolyn,mscs,science,mcphearson,0,201,cs-intrm,2.13
-90,Carolyn,mscs,science,mcphearson,0,302,math-adv,2.06
-90,Carolyn,mscs,science,mcphearson,0,302,math-adv,2.65
-90,Carolyn,mscs,science,mcphearson,0,302,math-adv,2.81
-91,Addie,mscs,science,mcphearson,0,301,cs-adv,3.35
-91,Addie,mscs,science,mcphearson,0,203,it-intrm,2.85
-91,Addie,mscs,science,mcphearson,0,102,math-intro,3.35
-91,Addie,mscs,science,mcphearson,0,303,it-adv,3.19
-91,Addie,mscs,science,mcphearson,0,202,math-intrm,3.22
-91,Addie,mscs,science,mcphearson,0,203,it-intrm,2.55
-92,Derrick,mscs,science,mcphearson,0,303,it-adv,2.6
-92,Derrick,mscs,science,mcphearson,0,103,it-intro,2.56
-92,Derrick,mscs,science,mcphearson,0,201,cs-intrm,2.54
-92,Derrick,mscs,science,mcphearson,0,101,cs-intro,3.91
-92,Derrick,mscs,science,mcphearson,0,303,it-adv,2.34
-92,Derrick,mscs,science,mcphearson,0,102,math-intro,2.03
-93,Alta,msis,science,george,0,103,it-intro,2.3
-93,Alta,msis,science,george,0,301,cs-adv,2.39
-93,Alta,msis,science,george,0,203,it-intrm,3.1
-93,Alta,msis,science,george,0,201,cs-intrm,2.29
-93,Alta,msis,science,george,0,303,it-adv,2
-93,Alta,msis,science,george,0,203,it-intrm,3.53
-94,Tony,msis,science,george,0,103,it-intro,2.76
-94,Tony,msis,science,george,0,302,math-adv,3.79
-94,Tony,msis,science,george,0,202,math-intrm,3.93
-94,Tony,msis,science,george,0,102,math-intro,3.2
-94,Tony,msis,science,george,0,201,cs-intrm,3.11
-94,Tony,msis,science,george,0,302,math-adv,3.61
-95,Connor,mscs,science,mcphearson,0,203,it-intrm,2.57
-95,Connor,mscs,science,mcphearson,0,202,math-intrm,2.91
-95,Connor,mscs,science,mcphearson,0,203,it-intrm,2.11
-95,Connor,mscs,science,mcphearson,0,302,math-adv,2.04
-95,Connor,mscs,science,mcphearson,0,303,it-adv,2.08
-95,Connor,mscs,science,mcphearson,0,101,cs-intro,3.06
-96,Daisy,msis,science,george,0,303,it-adv,3.12
-96,Daisy,msis,science,george,0,203,it-intrm,2.12
-96,Daisy,msis,science,george,0,103,it-intro,3.28
-96,Daisy,msis,science,george,0,303,it-adv,3.42
-96,Daisy,msis,science,george,0,301,cs-adv,2.53
-96,Daisy,msis,science,george,0,301,cs-adv,2.9
-97,Ola,msis,science,george,0,202,math-intrm,3.78
-97,Ola,msis,science,george,0,302,math-adv,2.06
-97,Ola,msis,science,george,0,301,cs-adv,3.07
-97,Ola,msis,science,george,0,102,math-intro,2.03
-97,Ola,msis,science,george,0,201,cs-intrm,2.93
-97,Ola,msis,science,george,0,302,math-adv,3.93
-98,Alberta,mscs,science,mcphearson,0,101,cs-intro,3.83
-98,Alberta,mscs,science,mcphearson,0,102,math-intro,3.83
-98,Alberta,mscs,science,mcphearson,0,301,cs-adv,3.93
-98,Alberta,mscs,science,mcphearson,0,201,cs-intrm,3.95
-98,Alberta,mscs,science,mcphearson,0,203,it-intrm,3.45
-98,Alberta,mscs,science,mcphearson,0,201,cs-intrm,2.11
-99,Hunter,mscs,science,mcphearson,0,202,math-intrm,3.39
-99,Hunter,mscs,science,mcphearson,0,201,cs-intrm,2.15
-99,Hunter,mscs,science,mcphearson,0,203,it-intrm,2.69
-99,Hunter,mscs,science,mcphearson,0,303,it-adv,3.73
-99,Hunter,mscs,science,mcphearson,0,203,it-intrm,2.16
-99,Hunter,mscs,science,mcphearson,0,201,cs-intrm,2.44
-100,Seth,msis,science,george,0,202,math-intrm,2.52
-100,Seth,msis,science,george,0,302,math-adv,3.31
-100,Seth,msis,science,george,0,302,math-adv,3.61
-100,Seth,msis,science,george,0,301,cs-adv,2.31
-100,Seth,msis,science,george,0,302,math-adv,3.93
-100,Seth,msis,science,george,0,202,math-intrm,3.33
+1,Leila Laura Green,mscs,science,mcphearson,0,203,it-intrm,3.64
+1,Leila Laura Green,mscs,science,mcphearson,0,302,math-adv,2.06
+1,Leila Laura Green,mscs,science,mcphearson,0,301,cs-adv,3.43
+1,Leila Laura Green,mscs,science,mcphearson,0,202,math-intrm,3.49
+1,Leila Laura Green,mscs,science,mcphearson,0,301,cs-adv,3.29
+1,Leila Laura Green,mscs,science,mcphearson,0,303,it-adv,2.47
+2,Emilie Ina Ingram,msis,science,george,0,201,cs-intrm,2.56
+2,Emilie Ina Ingram,msis,science,george,0,203,it-intrm,2.94
+2,Emilie Ina Ingram,msis,science,george,0,103,it-intro,4
+2,Emilie Ina Ingram,msis,science,george,0,303,it-adv,2.82
+2,Emilie Ina Ingram,msis,science,george,0,303,it-adv,2.49
+2,Emilie Ina Ingram,msis,science,george,0,102,math-intro,2.69
+3,Clara Loretta Vargas,mscs,science,mcphearson,0,101,cs-intro,3.8
+3,Clara Loretta Vargas,mscs,science,mcphearson,0,202,math-intrm,2.69
+3,Clara Loretta Vargas,mscs,science,mcphearson,0,303,it-adv,2.74
+3,Clara Loretta Vargas,mscs,science,mcphearson,0,103,it-intro,2.59
+3,Clara Loretta Vargas,mscs,science,mcphearson,0,103,it-intro,2.88
+3,Clara Loretta Vargas,mscs,science,mcphearson,0,203,it-intrm,2.2
+4,Connor Bradley Cook,msis,science,george,0,102,math-intro,3.97
+4,Connor Bradley Cook,msis,science,george,0,303,it-adv,3.89
+4,Connor Bradley Cook,msis,science,george,0,101,cs-intro,2.82
+4,Connor Bradley Cook,msis,science,george,0,203,it-intrm,3.25
+4,Connor Bradley Cook,msis,science,george,0,301,cs-adv,3.24
+4,Connor Bradley Cook,msis,science,george,0,303,it-adv,2.48
+5,Agnes Isabelle George,mscs,science,mcphearson,0,302,math-adv,3.66
+5,Agnes Isabelle George,mscs,science,mcphearson,0,201,cs-intrm,2.41
+5,Agnes Isabelle George,mscs,science,mcphearson,0,202,math-intrm,3.2
+5,Agnes Isabelle George,mscs,science,mcphearson,0,302,math-adv,3.71
+5,Agnes Isabelle George,mscs,science,mcphearson,0,302,math-adv,3.04
+5,Agnes Isabelle George,mscs,science,mcphearson,0,103,it-intro,3.41
+6,Alan Cody Sims,mscs,science,mcphearson,0,203,it-intrm,2.79
+6,Alan Cody Sims,mscs,science,mcphearson,0,201,cs-intrm,3.46
+6,Alan Cody Sims,mscs,science,mcphearson,0,102,math-intro,3.72
+6,Alan Cody Sims,mscs,science,mcphearson,0,101,cs-intro,3.72
+6,Alan Cody Sims,mscs,science,mcphearson,0,101,cs-intro,3.56
+6,Alan Cody Sims,mscs,science,mcphearson,0,103,it-intro,3.51
+7,Lettie Mayme Park,mscs,science,mcphearson,0,301,cs-adv,3.38
+7,Lettie Mayme Park,mscs,science,mcphearson,0,301,cs-adv,2.82
+7,Lettie Mayme Park,mscs,science,mcphearson,0,302,math-adv,3.33
+7,Lettie Mayme Park,mscs,science,mcphearson,0,303,it-adv,3.09
+7,Lettie Mayme Park,mscs,science,mcphearson,0,301,cs-adv,2.34
+7,Lettie Mayme Park,mscs,science,mcphearson,0,303,it-adv,3.7
+8,Thomas Carlos Padilla,mscs,science,mcphearson,0,202,math-intrm,3.75
+8,Thomas Carlos Padilla,mscs,science,mcphearson,0,103,it-intro,2.28
+8,Thomas Carlos Padilla,mscs,science,mcphearson,0,201,cs-intrm,2.81
+8,Thomas Carlos Padilla,mscs,science,mcphearson,0,303,it-adv,3.3
+8,Thomas Carlos Padilla,mscs,science,mcphearson,0,301,cs-adv,3.7
+8,Thomas Carlos Padilla,mscs,science,mcphearson,0,101,cs-intro,3.23
+9,Austin James Page,msis,science,george,0,203,it-intrm,3.56
+9,Austin James Page,msis,science,george,0,103,it-intro,2.46
+9,Austin James Page,msis,science,george,0,303,it-adv,2.32
+9,Austin James Page,msis,science,george,0,202,math-intrm,3.42
+9,Austin James Page,msis,science,george,0,303,it-adv,2.06
+9,Austin James Page,msis,science,george,0,303,it-adv,3.71
+10,Frederick Nathan Joseph,mscs,science,mcphearson,0,303,it-adv,3.89
+10,Frederick Nathan Joseph,mscs,science,mcphearson,0,102,math-intro,3.32
+10,Frederick Nathan Joseph,mscs,science,mcphearson,0,301,cs-adv,3.96
+10,Frederick Nathan Joseph,mscs,science,mcphearson,0,201,cs-intrm,3.1
+10,Frederick Nathan Joseph,mscs,science,mcphearson,0,201,cs-intrm,2.3
+10,Frederick Nathan Joseph,mscs,science,mcphearson,0,301,cs-adv,3.03
+11,Marcus Frederick Williams,msis,science,george,0,102,math-intro,3.3
+11,Marcus Frederick Williams,msis,science,george,0,303,it-adv,2.2
+11,Marcus Frederick Williams,msis,science,george,0,302,math-adv,4
+11,Marcus Frederick Williams,msis,science,george,0,201,cs-intrm,2.77
+11,Marcus Frederick Williams,msis,science,george,0,201,cs-intrm,3.85
+11,Marcus Frederick Williams,msis,science,george,0,302,math-adv,2.74
+12,Ruby Harriett Thornton,mscs,science,mcphearson,0,103,it-intro,3.44
+12,Ruby Harriett Thornton,mscs,science,mcphearson,0,301,cs-adv,2.8
+12,Ruby Harriett Thornton,mscs,science,mcphearson,0,103,it-intro,2.44
+12,Ruby Harriett Thornton,mscs,science,mcphearson,0,203,it-intrm,3.76
+12,Ruby Harriett Thornton,mscs,science,mcphearson,0,303,it-adv,3.54
+12,Ruby Harriett Thornton,mscs,science,mcphearson,0,102,math-intro,3.83
+13,Georgie Augusta Bishop,msis,science,george,0,301,cs-adv,2.96
+13,Georgie Augusta Bishop,msis,science,george,0,203,it-intrm,3.4
+13,Georgie Augusta Bishop,msis,science,george,0,202,math-intrm,3.57
+13,Georgie Augusta Bishop,msis,science,george,0,303,it-adv,2.43
+13,Georgie Augusta Bishop,msis,science,george,0,103,it-intro,2.5
+13,Georgie Augusta Bishop,msis,science,george,0,203,it-intrm,2.87
+14,Lily Lois James,mscs,science,mcphearson,0,303,it-adv,3.58
+14,Lily Lois James,mscs,science,mcphearson,0,302,math-adv,3.09
+14,Lily Lois James,mscs,science,mcphearson,0,103,it-intro,3.76
+14,Lily Lois James,mscs,science,mcphearson,0,301,cs-adv,2.32
+14,Lily Lois James,mscs,science,mcphearson,0,301,cs-adv,2.28
+14,Lily Lois James,mscs,science,mcphearson,0,203,it-intrm,2.35
+15,Isaiah Marvin Martin,mscs,science,mcphearson,0,302,math-adv,3.39
+15,Isaiah Marvin Martin,mscs,science,mcphearson,0,101,cs-intro,2.7
+15,Isaiah Marvin Martin,mscs,science,mcphearson,0,202,math-intrm,3.38
+15,Isaiah Marvin Martin,mscs,science,mcphearson,0,303,it-adv,2.94
+15,Isaiah Marvin Martin,mscs,science,mcphearson,0,201,cs-intrm,2.87
+15,Isaiah Marvin Martin,mscs,science,mcphearson,0,102,math-intro,2.61
+16,Callie Loretta Hill,msis,science,george,0,203,it-intrm,2.15
+16,Callie Loretta Hill,msis,science,george,0,302,math-adv,3.47
+16,Callie Loretta Hill,msis,science,george,0,102,math-intro,3.34
+16,Callie Loretta Hill,msis,science,george,0,301,cs-adv,2.59
+16,Callie Loretta Hill,msis,science,george,0,203,it-intrm,3.35
+16,Callie Loretta Hill,msis,science,george,0,101,cs-intro,3.87
+17,Sally Iva Mendoza,msis,science,george,0,203,it-intrm,3.74
+17,Sally Iva Mendoza,msis,science,george,0,203,it-intrm,3.54
+17,Sally Iva Mendoza,msis,science,george,0,102,math-intro,3.19
+17,Sally Iva Mendoza,msis,science,george,0,303,it-adv,3.24
+17,Sally Iva Mendoza,msis,science,george,0,103,it-intro,3.56
+17,Sally Iva Mendoza,msis,science,george,0,303,it-adv,2.12
+18,Nancy Rebecca Patterson,mscs,science,mcphearson,0,103,it-intro,3.14
+18,Nancy Rebecca Patterson,mscs,science,mcphearson,0,302,math-adv,3.28
+18,Nancy Rebecca Patterson,mscs,science,mcphearson,0,103,it-intro,3.21
+18,Nancy Rebecca Patterson,mscs,science,mcphearson,0,202,math-intrm,2.8
+18,Nancy Rebecca Patterson,mscs,science,mcphearson,0,202,math-intrm,3.28
+18,Nancy Rebecca Patterson,mscs,science,mcphearson,0,101,cs-intro,2.66
+19,Jennie Eliza Hunt,msis,science,george,0,102,math-intro,3.07
+19,Jennie Eliza Hunt,msis,science,george,0,301,cs-adv,2.62
+19,Jennie Eliza Hunt,msis,science,george,0,302,math-adv,3.25
+19,Jennie Eliza Hunt,msis,science,george,0,103,it-intro,3.6
+19,Jennie Eliza Hunt,msis,science,george,0,202,math-intrm,3.08
+19,Jennie Eliza Hunt,msis,science,george,0,301,cs-adv,3.79
+20,Joel Matthew Adams,mscs,science,mcphearson,0,101,cs-intro,2.51
+20,Joel Matthew Adams,mscs,science,mcphearson,0,103,it-intro,3.22
+20,Joel Matthew Adams,mscs,science,mcphearson,0,301,cs-adv,3.78
+20,Joel Matthew Adams,mscs,science,mcphearson,0,203,it-intrm,2.2
+20,Joel Matthew Adams,mscs,science,mcphearson,0,201,cs-intrm,3.07
+20,Joel Matthew Adams,mscs,science,mcphearson,0,202,math-intrm,3.39
+21,Larry Micheal McLaughlin,mscs,science,mcphearson,0,302,math-adv,2.57
+21,Larry Micheal McLaughlin,mscs,science,mcphearson,0,301,cs-adv,2.62
+21,Larry Micheal McLaughlin,mscs,science,mcphearson,0,201,cs-intrm,3.73
+21,Larry Micheal McLaughlin,mscs,science,mcphearson,0,102,math-intro,3.18
+21,Larry Micheal McLaughlin,mscs,science,mcphearson,0,101,cs-intro,3.26
+21,Larry Micheal McLaughlin,mscs,science,mcphearson,0,201,cs-intrm,3.32
+22,Shawn Ernest Kelly,mscs,science,mcphearson,0,102,math-intro,2.4
+22,Shawn Ernest Kelly,mscs,science,mcphearson,0,202,math-intrm,2.8
+22,Shawn Ernest Kelly,mscs,science,mcphearson,0,202,math-intrm,2.81
+22,Shawn Ernest Kelly,mscs,science,mcphearson,0,102,math-intro,3.35
+22,Shawn Ernest Kelly,mscs,science,mcphearson,0,202,math-intrm,2.88
+22,Shawn Ernest Kelly,mscs,science,mcphearson,0,101,cs-intro,3.94
+23,Lois Essie Leonard,msis,science,george,0,102,math-intro,3.25
+23,Lois Essie Leonard,msis,science,george,0,102,math-intro,3.4
+23,Lois Essie Leonard,msis,science,george,0,301,cs-adv,3.91
+23,Lois Essie Leonard,msis,science,george,0,102,math-intro,3.71
+23,Lois Essie Leonard,msis,science,george,0,102,math-intro,3
+23,Lois Essie Leonard,msis,science,george,0,202,math-intrm,2.5
+24,Della Madge Gonzalez,mscs,science,mcphearson,0,103,it-intro,2.82
+24,Della Madge Gonzalez,mscs,science,mcphearson,0,302,math-adv,2.15
+24,Della Madge Gonzalez,mscs,science,mcphearson,0,303,it-adv,2.29
+24,Della Madge Gonzalez,mscs,science,mcphearson,0,202,math-intrm,3.73
+24,Della Madge Gonzalez,mscs,science,mcphearson,0,101,cs-intro,2.36
+24,Della Madge Gonzalez,mscs,science,mcphearson,0,203,it-intrm,2.87
+25,Isaiah Benjamin Bryant,mscs,science,mcphearson,0,203,it-intrm,2.3
+25,Isaiah Benjamin Bryant,mscs,science,mcphearson,0,203,it-intrm,2.55
+25,Isaiah Benjamin Bryant,mscs,science,mcphearson,0,103,it-intro,2.27
+25,Isaiah Benjamin Bryant,mscs,science,mcphearson,0,302,math-adv,2.32
+25,Isaiah Benjamin Bryant,mscs,science,mcphearson,0,103,it-intro,2.42
+25,Isaiah Benjamin Bryant,mscs,science,mcphearson,0,303,it-adv,3.36
+26,Tommy Melvin Tran,msis,science,george,0,103,it-intro,3.33
+26,Tommy Melvin Tran,msis,science,george,0,202,math-intrm,3.53
+26,Tommy Melvin Tran,msis,science,george,0,201,cs-intrm,3.95
+26,Tommy Melvin Tran,msis,science,george,0,303,it-adv,2.93
+26,Tommy Melvin Tran,msis,science,george,0,101,cs-intro,2.09
+26,Tommy Melvin Tran,msis,science,george,0,202,math-intrm,3.01
+27,Verna Julia Daniels,msis,science,george,0,102,math-intro,2.68
+27,Verna Julia Daniels,msis,science,george,0,202,math-intrm,2.22
+27,Verna Julia Daniels,msis,science,george,0,102,math-intro,3.54
+27,Verna Julia Daniels,msis,science,george,0,102,math-intro,2.96
+27,Verna Julia Daniels,msis,science,george,0,301,cs-adv,2.7
+27,Verna Julia Daniels,msis,science,george,0,301,cs-adv,3.28
+28,Daisy Georgie Wood,msis,science,george,0,203,it-intrm,2.62
+28,Daisy Georgie Wood,msis,science,george,0,201,cs-intrm,2.66
+28,Daisy Georgie Wood,msis,science,george,0,302,math-adv,3.22
+28,Daisy Georgie Wood,msis,science,george,0,303,it-adv,3.14
+28,Daisy Georgie Wood,msis,science,george,0,103,it-intro,2
+28,Daisy Georgie Wood,msis,science,george,0,103,it-intro,3.85
+29,Amy Polly Willis,mscs,science,mcphearson,0,202,math-intrm,2
+29,Amy Polly Willis,mscs,science,mcphearson,0,103,it-intro,3.34
+29,Amy Polly Willis,mscs,science,mcphearson,0,302,math-adv,3.78
+29,Amy Polly Willis,mscs,science,mcphearson,0,202,math-intrm,3.06
+29,Amy Polly Willis,mscs,science,mcphearson,0,201,cs-intrm,2.79
+29,Amy Polly Willis,mscs,science,mcphearson,0,202,math-intrm,3.55
+30,Aiden Jeffrey McKenzie,mscs,science,mcphearson,0,101,cs-intro,2.37
+30,Aiden Jeffrey McKenzie,mscs,science,mcphearson,0,303,it-adv,3.02
+30,Aiden Jeffrey McKenzie,mscs,science,mcphearson,0,201,cs-intrm,2.07
+30,Aiden Jeffrey McKenzie,mscs,science,mcphearson,0,203,it-intrm,3.53
+30,Aiden Jeffrey McKenzie,mscs,science,mcphearson,0,202,math-intrm,3.29
+30,Aiden Jeffrey McKenzie,mscs,science,mcphearson,0,301,cs-adv,2.38
+31,Harold Steve Thompson,msis,science,george,0,302,math-adv,3.2
+31,Harold Steve Thompson,msis,science,george,0,103,it-intro,2.61
+31,Harold Steve Thompson,msis,science,george,0,201,cs-intrm,3.19
+31,Harold Steve Thompson,msis,science,george,0,102,math-intro,3.26
+31,Harold Steve Thompson,msis,science,george,0,103,it-intro,2.38
+31,Harold Steve Thompson,msis,science,george,0,202,math-intrm,2.61
+32,Mattie Bettie Martinez,mscs,science,mcphearson,0,302,math-adv,3.18
+32,Mattie Bettie Martinez,mscs,science,mcphearson,0,302,math-adv,2.05
+32,Mattie Bettie Martinez,mscs,science,mcphearson,0,202,math-intrm,3.45
+32,Mattie Bettie Martinez,mscs,science,mcphearson,0,102,math-intro,2.34
+32,Mattie Bettie Martinez,mscs,science,mcphearson,0,102,math-intro,3.29
+32,Mattie Bettie Martinez,mscs,science,mcphearson,0,301,cs-adv,3.3
+33,Kenneth Jimmy Newman,mscs,science,mcphearson,0,303,it-adv,2.31
+33,Kenneth Jimmy Newman,mscs,science,mcphearson,0,302,math-adv,2.42
+33,Kenneth Jimmy Newman,mscs,science,mcphearson,0,202,math-intrm,3.99
+33,Kenneth Jimmy Newman,mscs,science,mcphearson,0,301,cs-adv,2.32
+33,Kenneth Jimmy Newman,mscs,science,mcphearson,0,102,math-intro,3.22
+33,Kenneth Jimmy Newman,mscs,science,mcphearson,0,303,it-adv,3.5
+34,Lawrence Ray Briggs,mscs,science,mcphearson,0,302,math-adv,3.39
+34,Lawrence Ray Briggs,mscs,science,mcphearson,0,203,it-intrm,2.94
+34,Lawrence Ray Briggs,mscs,science,mcphearson,0,203,it-intrm,3.25
+34,Lawrence Ray Briggs,mscs,science,mcphearson,0,101,cs-intro,3.31
+34,Lawrence Ray Briggs,mscs,science,mcphearson,0,302,math-adv,2.96
+34,Lawrence Ray Briggs,mscs,science,mcphearson,0,101,cs-intro,3.08
+35,Noah Mark Armstrong,mscs,science,mcphearson,0,202,math-intrm,2.99
+35,Noah Mark Armstrong,mscs,science,mcphearson,0,103,it-intro,2.76
+35,Noah Mark Armstrong,mscs,science,mcphearson,0,103,it-intro,3.5
+35,Noah Mark Armstrong,mscs,science,mcphearson,0,202,math-intrm,3.36
+35,Noah Mark Armstrong,mscs,science,mcphearson,0,303,it-adv,3.25
+35,Noah Mark Armstrong,mscs,science,mcphearson,0,102,math-intro,3.12
+36,Garrett Jeff Chambers,msis,science,george,0,303,it-adv,3.9
+36,Garrett Jeff Chambers,msis,science,george,0,203,it-intrm,3.01
+36,Garrett Jeff Chambers,msis,science,george,0,201,cs-intrm,2.11
+36,Garrett Jeff Chambers,msis,science,george,0,103,it-intro,3.24
+36,Garrett Jeff Chambers,msis,science,george,0,303,it-adv,3.4
+36,Garrett Jeff Chambers,msis,science,george,0,303,it-adv,3.4
+37,Maggie Eva Fernandez,msis,science,george,0,301,cs-adv,2.84
+37,Maggie Eva Fernandez,msis,science,george,0,302,math-adv,3.14
+37,Maggie Eva Fernandez,msis,science,george,0,102,math-intro,3.08
+37,Maggie Eva Fernandez,msis,science,george,0,301,cs-adv,3.93
+37,Maggie Eva Fernandez,msis,science,george,0,302,math-adv,2.76
+37,Maggie Eva Fernandez,msis,science,george,0,302,math-adv,3.34
+38,Isaiah Benjamin Torres,mscs,science,mcphearson,0,103,it-intro,2.29
+38,Isaiah Benjamin Torres,mscs,science,mcphearson,0,101,cs-intro,2.9
+38,Isaiah Benjamin Torres,mscs,science,mcphearson,0,202,math-intrm,3.46
+38,Isaiah Benjamin Torres,mscs,science,mcphearson,0,103,it-intro,3.35
+38,Isaiah Benjamin Torres,mscs,science,mcphearson,0,302,math-adv,2.95
+38,Isaiah Benjamin Torres,mscs,science,mcphearson,0,203,it-intrm,2.11
+39,Jimmy Jesus Quinn,msis,science,george,0,102,math-intro,3.19
+39,Jimmy Jesus Quinn,msis,science,george,0,202,math-intrm,2.84
+39,Jimmy Jesus Quinn,msis,science,george,0,203,it-intrm,2.81
+39,Jimmy Jesus Quinn,msis,science,george,0,102,math-intro,2.15
+39,Jimmy Jesus Quinn,msis,science,george,0,101,cs-intro,3.55
+39,Jimmy Jesus Quinn,msis,science,george,0,202,math-intrm,3.47
+40,Laura Harriet Evans,msis,science,george,0,301,cs-adv,2.5
+40,Laura Harriet Evans,msis,science,george,0,202,math-intrm,3.08
+40,Laura Harriet Evans,msis,science,george,0,103,it-intro,3.22
+40,Laura Harriet Evans,msis,science,george,0,103,it-intro,2.49
+40,Laura Harriet Evans,msis,science,george,0,203,it-intrm,3.17
+40,Laura Harriet Evans,msis,science,george,0,202,math-intrm,2.65
+41,Adele Johanna Hernandez,msis,science,george,0,303,it-adv,3.26
+41,Adele Johanna Hernandez,msis,science,george,0,103,it-intro,2.14
+41,Adele Johanna Hernandez,msis,science,george,0,101,cs-intro,3.07
+41,Adele Johanna Hernandez,msis,science,george,0,101,cs-intro,3.22
+41,Adele Johanna Hernandez,msis,science,george,0,103,it-intro,3.64
+41,Adele Johanna Hernandez,msis,science,george,0,102,math-intro,3.74
+42,Chad Jason Valdez,mscs,science,mcphearson,0,201,cs-intrm,3
+42,Chad Jason Valdez,mscs,science,mcphearson,0,101,cs-intro,3.91
+42,Chad Jason Valdez,mscs,science,mcphearson,0,201,cs-intrm,2.21
+42,Chad Jason Valdez,mscs,science,mcphearson,0,301,cs-adv,2.96
+42,Chad Jason Valdez,mscs,science,mcphearson,0,101,cs-intro,2.72
+42,Chad Jason Valdez,mscs,science,mcphearson,0,203,it-intrm,3.23
+43,Rose Barbara Cross,msis,science,george,0,202,math-intrm,2.06
+43,Rose Barbara Cross,msis,science,george,0,101,cs-intro,3.86
+43,Rose Barbara Cross,msis,science,george,0,201,cs-intrm,3.77
+43,Rose Barbara Cross,msis,science,george,0,203,it-intrm,3.34
+43,Rose Barbara Cross,msis,science,george,0,102,math-intro,2.55
+43,Rose Barbara Cross,msis,science,george,0,201,cs-intrm,3.88
+44,Maurice Douglas Austin,mscs,science,mcphearson,0,203,it-intrm,3.63
+44,Maurice Douglas Austin,mscs,science,mcphearson,0,201,cs-intrm,2.45
+44,Maurice Douglas Austin,mscs,science,mcphearson,0,303,it-adv,3.54
+44,Maurice Douglas Austin,mscs,science,mcphearson,0,103,it-intro,2.24
+44,Maurice Douglas Austin,mscs,science,mcphearson,0,101,cs-intro,3.85
+44,Maurice Douglas Austin,mscs,science,mcphearson,0,303,it-adv,3.16
+45,Gary Chad Schmidt,mscs,science,mcphearson,0,102,math-intro,2.53
+45,Gary Chad Schmidt,mscs,science,mcphearson,0,202,math-intrm,2.34
+45,Gary Chad Schmidt,mscs,science,mcphearson,0,102,math-intro,3.37
+45,Gary Chad Schmidt,mscs,science,mcphearson,0,101,cs-intro,3.34
+45,Gary Chad Schmidt,mscs,science,mcphearson,0,102,math-intro,3.58
+45,Gary Chad Schmidt,mscs,science,mcphearson,0,203,it-intrm,3.24
+46,Connor Floyd Stanley,msis,science,george,0,303,it-adv,3.43
+46,Connor Floyd Stanley,msis,science,george,0,301,cs-adv,3.47
+46,Connor Floyd Stanley,msis,science,george,0,303,it-adv,3.25
+46,Connor Floyd Stanley,msis,science,george,0,102,math-intro,2.92
+46,Connor Floyd Stanley,msis,science,george,0,301,cs-adv,4
+46,Connor Floyd Stanley,msis,science,george,0,302,math-adv,2.73
+47,Christopher Dominic Cummings,msis,science,george,0,302,math-adv,3.22
+47,Christopher Dominic Cummings,msis,science,george,0,101,cs-intro,2.55
+47,Christopher Dominic Cummings,msis,science,george,0,301,cs-adv,2.46
+47,Christopher Dominic Cummings,msis,science,george,0,202,math-intrm,3.93
+47,Christopher Dominic Cummings,msis,science,george,0,202,math-intrm,2.96
+47,Christopher Dominic Cummings,msis,science,george,0,203,it-intrm,3.8
+48,Rosie Amelia Maxwell,msis,science,george,0,201,cs-intrm,3.47
+48,Rosie Amelia Maxwell,msis,science,george,0,303,it-adv,3.9
+48,Rosie Amelia Maxwell,msis,science,george,0,301,cs-adv,2.02
+48,Rosie Amelia Maxwell,msis,science,george,0,303,it-adv,3.25
+48,Rosie Amelia Maxwell,msis,science,george,0,302,math-adv,2.96
+48,Rosie Amelia Maxwell,msis,science,george,0,202,math-intrm,2.57
+49,Esther Pearl Black,msis,science,george,0,203,it-intrm,2.69
+49,Esther Pearl Black,msis,science,george,0,303,it-adv,3.29
+49,Esther Pearl Black,msis,science,george,0,102,math-intro,2.77
+49,Esther Pearl Black,msis,science,george,0,302,math-adv,3.56
+49,Esther Pearl Black,msis,science,george,0,203,it-intrm,2.28
+49,Esther Pearl Black,msis,science,george,0,103,it-intro,3.58
+50,Josephine Charlotte Gordon,msis,science,george,0,201,cs-intrm,2.13
+50,Josephine Charlotte Gordon,msis,science,george,0,102,math-intro,2.62
+50,Josephine Charlotte Gordon,msis,science,george,0,103,it-intro,3.69
+50,Josephine Charlotte Gordon,msis,science,george,0,102,math-intro,2.6
+50,Josephine Charlotte Gordon,msis,science,george,0,203,it-intrm,3.49
+50,Josephine Charlotte Gordon,msis,science,george,0,101,cs-intro,3.83
+51,Lillie Harriet Harris,msis,science,george,0,101,cs-intro,2.87
+51,Lillie Harriet Harris,msis,science,george,0,301,cs-adv,3.08
+51,Lillie Harriet Harris,msis,science,george,0,103,it-intro,2.07
+51,Lillie Harriet Harris,msis,science,george,0,202,math-intrm,2.45
+51,Lillie Harriet Harris,msis,science,george,0,303,it-adv,2.73
+51,Lillie Harriet Harris,msis,science,george,0,303,it-adv,3.32
+52,Justin Stephen Washington,msis,science,george,0,103,it-intro,2.83
+52,Justin Stephen Washington,msis,science,george,0,302,math-adv,2.17
+52,Justin Stephen Washington,msis,science,george,0,103,it-intro,3.77
+52,Justin Stephen Washington,msis,science,george,0,102,math-intro,2.07
+52,Justin Stephen Washington,msis,science,george,0,101,cs-intro,3.37
+52,Justin Stephen Washington,msis,science,george,0,102,math-intro,3.29
+53,Lula Sadie Bowers,mscs,science,mcphearson,0,103,it-intro,3.94
+53,Lula Sadie Bowers,mscs,science,mcphearson,0,101,cs-intro,2.01
+53,Lula Sadie Bowers,mscs,science,mcphearson,0,202,math-intrm,2.85
+53,Lula Sadie Bowers,mscs,science,mcphearson,0,203,it-intrm,3.58
+53,Lula Sadie Bowers,mscs,science,mcphearson,0,103,it-intro,3.14
+53,Lula Sadie Bowers,mscs,science,mcphearson,0,102,math-intro,3.35
+54,Micheal Jared Norris,mscs,science,mcphearson,0,203,it-intrm,2.48
+54,Micheal Jared Norris,mscs,science,mcphearson,0,203,it-intrm,3.73
+54,Micheal Jared Norris,mscs,science,mcphearson,0,103,it-intro,2.67
+54,Micheal Jared Norris,mscs,science,mcphearson,0,301,cs-adv,2.7
+54,Micheal Jared Norris,mscs,science,mcphearson,0,101,cs-intro,2.38
+54,Micheal Jared Norris,mscs,science,mcphearson,0,303,it-adv,3.71
+55,Lena Bess Bradley,mscs,science,mcphearson,0,101,cs-intro,3.74
+55,Lena Bess Bradley,mscs,science,mcphearson,0,202,math-intrm,3.29
+55,Lena Bess Bradley,mscs,science,mcphearson,0,303,it-adv,3.82
+55,Lena Bess Bradley,mscs,science,mcphearson,0,301,cs-adv,3.36
+55,Lena Bess Bradley,mscs,science,mcphearson,0,202,math-intrm,3.89
+55,Lena Bess Bradley,mscs,science,mcphearson,0,201,cs-intrm,3.92
+56,Ethel Effie Phelps,msis,science,george,0,203,it-intrm,3.89
+56,Ethel Effie Phelps,msis,science,george,0,102,math-intro,3.28
+56,Ethel Effie Phelps,msis,science,george,0,103,it-intro,2.98
+56,Ethel Effie Phelps,msis,science,george,0,201,cs-intrm,2.41
+56,Ethel Effie Phelps,msis,science,george,0,201,cs-intrm,3.81
+56,Ethel Effie Phelps,msis,science,george,0,302,math-adv,3.06
+57,Nellie Flora Gordon,msis,science,george,0,203,it-intrm,3.07
+57,Nellie Flora Gordon,msis,science,george,0,302,math-adv,2
+57,Nellie Flora Gordon,msis,science,george,0,202,math-intrm,4
+57,Nellie Flora Gordon,msis,science,george,0,201,cs-intrm,2.16
+57,Nellie Flora Gordon,msis,science,george,0,101,cs-intro,3.63
+57,Nellie Flora Gordon,msis,science,george,0,303,it-adv,3.01
+58,Polly Elnora Rogers,msis,science,george,0,301,cs-adv,2.48
+58,Polly Elnora Rogers,msis,science,george,0,303,it-adv,2.72
+58,Polly Elnora Rogers,msis,science,george,0,301,cs-adv,3.37
+58,Polly Elnora Rogers,msis,science,george,0,101,cs-intro,3.36
+58,Polly Elnora Rogers,msis,science,george,0,203,it-intrm,2.7
+58,Polly Elnora Rogers,msis,science,george,0,303,it-adv,2.02
+59,Randy Jacob Graham,msis,science,george,0,302,math-adv,3.88
+59,Randy Jacob Graham,msis,science,george,0,302,math-adv,3.33
+59,Randy Jacob Graham,msis,science,george,0,103,it-intro,2.75
+59,Randy Jacob Graham,msis,science,george,0,301,cs-adv,3.32
+59,Randy Jacob Graham,msis,science,george,0,302,math-adv,2.72
+59,Randy Jacob Graham,msis,science,george,0,302,math-adv,3.44
+60,Marie Callie Walsh,mscs,science,mcphearson,0,103,it-intro,2.15
+60,Marie Callie Walsh,mscs,science,mcphearson,0,301,cs-adv,3.05
+60,Marie Callie Walsh,mscs,science,mcphearson,0,202,math-intrm,3.17
+60,Marie Callie Walsh,mscs,science,mcphearson,0,101,cs-intro,4
+60,Marie Callie Walsh,mscs,science,mcphearson,0,302,math-adv,2.55
+60,Marie Callie Walsh,mscs,science,mcphearson,0,301,cs-adv,3.06
+61,Alexander Leonard Bailey,mscs,science,mcphearson,0,202,math-intrm,3.02
+61,Alexander Leonard Bailey,mscs,science,mcphearson,0,202,math-intrm,2.52
+61,Alexander Leonard Bailey,mscs,science,mcphearson,0,301,cs-adv,3.05
+61,Alexander Leonard Bailey,mscs,science,mcphearson,0,203,it-intrm,3.28
+61,Alexander Leonard Bailey,mscs,science,mcphearson,0,102,math-intro,2.04
+61,Alexander Leonard Bailey,mscs,science,mcphearson,0,101,cs-intro,3.9
+62,Winifred Rachel Peterson,mscs,science,mcphearson,0,201,cs-intrm,3.48
+62,Winifred Rachel Peterson,mscs,science,mcphearson,0,102,math-intro,3.38
+62,Winifred Rachel Peterson,mscs,science,mcphearson,0,201,cs-intrm,3.61
+62,Winifred Rachel Peterson,mscs,science,mcphearson,0,101,cs-intro,3.51
+62,Winifred Rachel Peterson,mscs,science,mcphearson,0,302,math-adv,3.69
+62,Winifred Rachel Peterson,mscs,science,mcphearson,0,203,it-intrm,3.56
+63,Frank Scott Ryan,mscs,science,mcphearson,0,201,cs-intrm,2.37
+63,Frank Scott Ryan,mscs,science,mcphearson,0,203,it-intrm,3.31
+63,Frank Scott Ryan,mscs,science,mcphearson,0,201,cs-intrm,2.55
+63,Frank Scott Ryan,mscs,science,mcphearson,0,101,cs-intro,2.23
+63,Frank Scott Ryan,mscs,science,mcphearson,0,102,math-intro,2.04
+63,Frank Scott Ryan,mscs,science,mcphearson,0,302,math-adv,3.99
+64,Clayton Juan Miller,mscs,science,mcphearson,0,101,cs-intro,3.62
+64,Clayton Juan Miller,mscs,science,mcphearson,0,202,math-intrm,2.6
+64,Clayton Juan Miller,mscs,science,mcphearson,0,102,math-intro,2.05
+64,Clayton Juan Miller,mscs,science,mcphearson,0,202,math-intrm,3.08
+64,Clayton Juan Miller,mscs,science,mcphearson,0,101,cs-intro,3.26
+64,Clayton Juan Miller,mscs,science,mcphearson,0,303,it-adv,3.46
+65,Lucas Jeffery Greer,mscs,science,mcphearson,0,203,it-intrm,3.55
+65,Lucas Jeffery Greer,mscs,science,mcphearson,0,301,cs-adv,3.25
+65,Lucas Jeffery Greer,mscs,science,mcphearson,0,201,cs-intrm,3.53
+65,Lucas Jeffery Greer,mscs,science,mcphearson,0,202,math-intrm,3.19
+65,Lucas Jeffery Greer,mscs,science,mcphearson,0,201,cs-intrm,3.47
+65,Lucas Jeffery Greer,mscs,science,mcphearson,0,101,cs-intro,3.89
+66,Ruby Sophie Jimenez,mscs,science,mcphearson,0,301,cs-adv,2.08
+66,Ruby Sophie Jimenez,mscs,science,mcphearson,0,301,cs-adv,3.72
+66,Ruby Sophie Jimenez,mscs,science,mcphearson,0,101,cs-intro,3.31
+66,Ruby Sophie Jimenez,mscs,science,mcphearson,0,101,cs-intro,3.17
+66,Ruby Sophie Jimenez,mscs,science,mcphearson,0,303,it-adv,3.15
+66,Ruby Sophie Jimenez,mscs,science,mcphearson,0,201,cs-intrm,3.82
+67,Matilda Adelaide Ortega,mscs,science,mcphearson,0,201,cs-intrm,3.79
+67,Matilda Adelaide Ortega,mscs,science,mcphearson,0,302,math-adv,2.83
+67,Matilda Adelaide Ortega,mscs,science,mcphearson,0,101,cs-intro,3.17
+67,Matilda Adelaide Ortega,mscs,science,mcphearson,0,102,math-intro,2.66
+67,Matilda Adelaide Ortega,mscs,science,mcphearson,0,201,cs-intrm,3.95
+67,Matilda Adelaide Ortega,mscs,science,mcphearson,0,303,it-adv,3.47
+68,Amelia Ethel Dean,mscs,science,mcphearson,0,201,cs-intrm,3.05
+68,Amelia Ethel Dean,mscs,science,mcphearson,0,201,cs-intrm,2.04
+68,Amelia Ethel Dean,mscs,science,mcphearson,0,102,math-intro,2.96
+68,Amelia Ethel Dean,mscs,science,mcphearson,0,301,cs-adv,3.56
+68,Amelia Ethel Dean,mscs,science,mcphearson,0,303,it-adv,3.71
+68,Amelia Ethel Dean,mscs,science,mcphearson,0,302,math-adv,2.05
+69,Leon Harry Fox,mscs,science,mcphearson,0,301,cs-adv,3.7
+69,Leon Harry Fox,mscs,science,mcphearson,0,101,cs-intro,2.09
+69,Leon Harry Fox,mscs,science,mcphearson,0,301,cs-adv,3.37
+69,Leon Harry Fox,mscs,science,mcphearson,0,103,it-intro,3.5
+69,Leon Harry Fox,mscs,science,mcphearson,0,102,math-intro,2.07
+69,Leon Harry Fox,mscs,science,mcphearson,0,303,it-adv,2.52
+70,Miguel Sean Hines,mscs,science,mcphearson,0,202,math-intrm,3.26
+70,Miguel Sean Hines,mscs,science,mcphearson,0,202,math-intrm,3.75
+70,Miguel Sean Hines,mscs,science,mcphearson,0,302,math-adv,3.75
+70,Miguel Sean Hines,mscs,science,mcphearson,0,203,it-intrm,3.26
+70,Miguel Sean Hines,mscs,science,mcphearson,0,102,math-intro,2.59
+70,Miguel Sean Hines,mscs,science,mcphearson,0,303,it-adv,3.73
+71,Craig William Jackson,mscs,science,mcphearson,0,203,it-intrm,3.82
+71,Craig William Jackson,mscs,science,mcphearson,0,101,cs-intro,2.89
+71,Craig William Jackson,mscs,science,mcphearson,0,303,it-adv,3.73
+71,Craig William Jackson,mscs,science,mcphearson,0,302,math-adv,3.83
+71,Craig William Jackson,mscs,science,mcphearson,0,102,math-intro,3.02
+71,Craig William Jackson,mscs,science,mcphearson,0,302,math-adv,2.46
+72,Bertha Myrtie Campbell,msis,science,george,0,302,math-adv,2.33
+72,Bertha Myrtie Campbell,msis,science,george,0,203,it-intrm,2.51
+72,Bertha Myrtie Campbell,msis,science,george,0,201,cs-intrm,2.39
+72,Bertha Myrtie Campbell,msis,science,george,0,303,it-adv,3.75
+72,Bertha Myrtie Campbell,msis,science,george,0,101,cs-intro,2.85
+72,Bertha Myrtie Campbell,msis,science,george,0,301,cs-adv,3.3
+73,Elijah Thomas Richards,msis,science,george,0,302,math-adv,2.17
+73,Elijah Thomas Richards,msis,science,george,0,202,math-intrm,2.9
+73,Elijah Thomas Richards,msis,science,george,0,203,it-intrm,3.7
+73,Elijah Thomas Richards,msis,science,george,0,203,it-intrm,3.69
+73,Elijah Thomas Richards,msis,science,george,0,201,cs-intrm,2.12
+73,Elijah Thomas Richards,msis,science,george,0,203,it-intrm,3.09
+74,Gary Bill Ortiz,msis,science,george,0,203,it-intrm,3.9
+74,Gary Bill Ortiz,msis,science,george,0,203,it-intrm,2.71
+74,Gary Bill Ortiz,msis,science,george,0,103,it-intro,2.14
+74,Gary Bill Ortiz,msis,science,george,0,102,math-intro,2.04
+74,Gary Bill Ortiz,msis,science,george,0,101,cs-intro,2.82
+74,Gary Bill Ortiz,msis,science,george,0,101,cs-intro,2.74
+75,Tony Leon Mason,mscs,science,mcphearson,0,202,math-intrm,3.82
+75,Tony Leon Mason,mscs,science,mcphearson,0,102,math-intro,3.36
+75,Tony Leon Mason,mscs,science,mcphearson,0,303,it-adv,2.84
+75,Tony Leon Mason,mscs,science,mcphearson,0,301,cs-adv,2.61
+75,Tony Leon Mason,mscs,science,mcphearson,0,103,it-intro,3.28
+75,Tony Leon Mason,mscs,science,mcphearson,0,201,cs-intrm,3.5
+76,Clara Birdie Neal,mscs,science,mcphearson,0,101,cs-intro,2.77
+76,Clara Birdie Neal,mscs,science,mcphearson,0,201,cs-intrm,2.16
+76,Clara Birdie Neal,mscs,science,mcphearson,0,102,math-intro,3.56
+76,Clara Birdie Neal,mscs,science,mcphearson,0,102,math-intro,3.94
+76,Clara Birdie Neal,mscs,science,mcphearson,0,201,cs-intrm,2.81
+76,Clara Birdie Neal,mscs,science,mcphearson,0,201,cs-intrm,2.02
+77,Georgie Lola Cole,msis,science,george,0,102,math-intro,3.88
+77,Georgie Lola Cole,msis,science,george,0,102,math-intro,2.43
+77,Georgie Lola Cole,msis,science,george,0,101,cs-intro,2.24
+77,Georgie Lola Cole,msis,science,george,0,301,cs-adv,3.47
+77,Georgie Lola Cole,msis,science,george,0,203,it-intrm,3.17
+77,Georgie Lola Cole,msis,science,george,0,101,cs-intro,3.2
+78,Noah Maurice Garner,msis,science,george,0,101,cs-intro,3.4
+78,Noah Maurice Garner,msis,science,george,0,302,math-adv,2.95
+78,Noah Maurice Garner,msis,science,george,0,202,math-intrm,2.78
+78,Noah Maurice Garner,msis,science,george,0,202,math-intrm,3.82
+78,Noah Maurice Garner,msis,science,george,0,302,math-adv,2.73
+78,Noah Maurice Garner,msis,science,george,0,203,it-intrm,3.93
+79,Jared Austin Day,msis,science,george,0,301,cs-adv,2.69
+79,Jared Austin Day,msis,science,george,0,103,it-intro,2.63
+79,Jared Austin Day,msis,science,george,0,101,cs-intro,3.92
+79,Jared Austin Day,msis,science,george,0,301,cs-adv,3.67
+79,Jared Austin Day,msis,science,george,0,103,it-intro,3.11
+79,Jared Austin Day,msis,science,george,0,302,math-adv,3.73
+80,Derek David Adkins,msis,science,george,0,303,it-adv,3.47
+80,Derek David Adkins,msis,science,george,0,302,math-adv,3.4
+80,Derek David Adkins,msis,science,george,0,203,it-intrm,3.62
+80,Derek David Adkins,msis,science,george,0,203,it-intrm,2.29
+80,Derek David Adkins,msis,science,george,0,201,cs-intrm,2.81
+80,Derek David Adkins,msis,science,george,0,303,it-adv,3.82
+81,Eva Sallie Brock,msis,science,george,0,203,it-intrm,2.31
+81,Eva Sallie Brock,msis,science,george,0,203,it-intrm,2.31
+81,Eva Sallie Brock,msis,science,george,0,301,cs-adv,3.63
+81,Eva Sallie Brock,msis,science,george,0,201,cs-intrm,3.61
+81,Eva Sallie Brock,msis,science,george,0,203,it-intrm,3.07
+81,Eva Sallie Brock,msis,science,george,0,202,math-intrm,2.55
+82,Jayden Jerome Daniel,msis,science,george,0,303,it-adv,3.66
+82,Jayden Jerome Daniel,msis,science,george,0,301,cs-adv,2.41
+82,Jayden Jerome Daniel,msis,science,george,0,101,cs-intro,3.01
+82,Jayden Jerome Daniel,msis,science,george,0,201,cs-intrm,3.53
+82,Jayden Jerome Daniel,msis,science,george,0,303,it-adv,3.29
+82,Jayden Jerome Daniel,msis,science,george,0,302,math-adv,2.54
+83,Inez Loretta Becker,mscs,science,mcphearson,0,303,it-adv,2.23
+83,Inez Loretta Becker,mscs,science,mcphearson,0,101,cs-intro,3.66
+83,Inez Loretta Becker,mscs,science,mcphearson,0,302,math-adv,3.53
+83,Inez Loretta Becker,mscs,science,mcphearson,0,101,cs-intro,2.99
+83,Inez Loretta Becker,mscs,science,mcphearson,0,103,it-intro,3.72
+83,Inez Loretta Becker,mscs,science,mcphearson,0,102,math-intro,2.58
+84,Clayton Brandon Norman,msis,science,george,0,203,it-intrm,2.77
+84,Clayton Brandon Norman,msis,science,george,0,301,cs-adv,3.69
+84,Clayton Brandon Norman,msis,science,george,0,203,it-intrm,2.16
+84,Clayton Brandon Norman,msis,science,george,0,301,cs-adv,2.93
+84,Clayton Brandon Norman,msis,science,george,0,202,math-intrm,4
+84,Clayton Brandon Norman,msis,science,george,0,101,cs-intro,2.74
+85,Teresa Leah Larson,msis,science,george,0,302,math-adv,2.9
+85,Teresa Leah Larson,msis,science,george,0,103,it-intro,2
+85,Teresa Leah Larson,msis,science,george,0,303,it-adv,2.16
+85,Teresa Leah Larson,msis,science,george,0,102,math-intro,3.72
+85,Teresa Leah Larson,msis,science,george,0,103,it-intro,3.72
+85,Teresa Leah Larson,msis,science,george,0,202,math-intrm,2.39
+86,Jessie Barbara Young,mscs,science,mcphearson,0,103,it-intro,2.64
+86,Jessie Barbara Young,mscs,science,mcphearson,0,202,math-intrm,3.98
+86,Jessie Barbara Young,mscs,science,mcphearson,0,203,it-intrm,3.61
+86,Jessie Barbara Young,mscs,science,mcphearson,0,202,math-intrm,2.59
+86,Jessie Barbara Young,mscs,science,mcphearson,0,101,cs-intro,3.89
+86,Jessie Barbara Young,mscs,science,mcphearson,0,202,math-intrm,2.86
+87,Florence Ora McDonald,msis,science,george,0,202,math-intrm,3.69
+87,Florence Ora McDonald,msis,science,george,0,201,cs-intrm,3.21
+87,Florence Ora McDonald,msis,science,george,0,201,cs-intrm,3.77
+87,Florence Ora McDonald,msis,science,george,0,302,math-adv,3.33
+87,Florence Ora McDonald,msis,science,george,0,103,it-intro,2.9
+87,Florence Ora McDonald,msis,science,george,0,103,it-intro,2.05
+88,Miguel Billy Parsons,mscs,science,mcphearson,0,302,math-adv,3.78
+88,Miguel Billy Parsons,mscs,science,mcphearson,0,301,cs-adv,3.21
+88,Miguel Billy Parsons,mscs,science,mcphearson,0,201,cs-intrm,3.67
+88,Miguel Billy Parsons,mscs,science,mcphearson,0,201,cs-intrm,2.19
+88,Miguel Billy Parsons,mscs,science,mcphearson,0,101,cs-intro,2.33
+88,Miguel Billy Parsons,mscs,science,mcphearson,0,203,it-intrm,2.23
+89,Dollie Ann Obrien,msis,science,george,0,303,it-adv,3.74
+89,Dollie Ann Obrien,msis,science,george,0,202,math-intrm,3.36
+89,Dollie Ann Obrien,msis,science,george,0,302,math-adv,3.1
+89,Dollie Ann Obrien,msis,science,george,0,102,math-intro,2.05
+89,Dollie Ann Obrien,msis,science,george,0,301,cs-adv,3.45
+89,Dollie Ann Obrien,msis,science,george,0,301,cs-adv,2.61
+90,Hattie Hulda Phelps,mscs,science,mcphearson,0,102,math-intro,2.95
+90,Hattie Hulda Phelps,mscs,science,mcphearson,0,301,cs-adv,2.17
+90,Hattie Hulda Phelps,mscs,science,mcphearson,0,101,cs-intro,2.38
+90,Hattie Hulda Phelps,mscs,science,mcphearson,0,203,it-intrm,3.18
+90,Hattie Hulda Phelps,mscs,science,mcphearson,0,102,math-intro,3.57
+90,Hattie Hulda Phelps,mscs,science,mcphearson,0,103,it-intro,2.15
+91,Jack Jack Larson,msis,science,george,0,202,math-intrm,2.41
+91,Jack Jack Larson,msis,science,george,0,203,it-intrm,3.66
+91,Jack Jack Larson,msis,science,george,0,102,math-intro,3.25
+91,Jack Jack Larson,msis,science,george,0,203,it-intrm,3.67
+91,Jack Jack Larson,msis,science,george,0,102,math-intro,2.73
+91,Jack Jack Larson,msis,science,george,0,101,cs-intro,3.55
+92,Eddie Carlos Cooper,mscs,science,mcphearson,0,302,math-adv,3.51
+92,Eddie Carlos Cooper,mscs,science,mcphearson,0,202,math-intrm,2.55
+92,Eddie Carlos Cooper,mscs,science,mcphearson,0,303,it-adv,2.14
+92,Eddie Carlos Cooper,mscs,science,mcphearson,0,101,cs-intro,2.21
+92,Eddie Carlos Cooper,mscs,science,mcphearson,0,302,math-adv,2.41
+92,Eddie Carlos Cooper,mscs,science,mcphearson,0,102,math-intro,3.83
+93,Cynthia Beulah Farmer,msis,science,george,0,101,cs-intro,2.58
+93,Cynthia Beulah Farmer,msis,science,george,0,103,it-intro,3.31
+93,Cynthia Beulah Farmer,msis,science,george,0,203,it-intrm,2.91
+93,Cynthia Beulah Farmer,msis,science,george,0,201,cs-intrm,2.38
+93,Cynthia Beulah Farmer,msis,science,george,0,203,it-intrm,2.99
+93,Cynthia Beulah Farmer,msis,science,george,0,102,math-intro,3.29
+94,Eddie Luke Santos,msis,science,george,0,301,cs-adv,2.5
+94,Eddie Luke Santos,msis,science,george,0,201,cs-intrm,3.05
+94,Eddie Luke Santos,msis,science,george,0,302,math-adv,2.4
+94,Eddie Luke Santos,msis,science,george,0,201,cs-intrm,2.47
+94,Eddie Luke Santos,msis,science,george,0,301,cs-adv,2.98
+94,Eddie Luke Santos,msis,science,george,0,201,cs-intrm,3.62
+95,Frank Rodney Malone,msis,science,george,0,102,math-intro,2.14
+95,Frank Rodney Malone,msis,science,george,0,201,cs-intrm,3.55
+95,Frank Rodney Malone,msis,science,george,0,203,it-intrm,2.38
+95,Frank Rodney Malone,msis,science,george,0,103,it-intro,3.02
+95,Frank Rodney Malone,msis,science,george,0,203,it-intrm,2.23
+95,Frank Rodney Malone,msis,science,george,0,101,cs-intro,2.57
+96,Elijah Derrick Griffin,msis,science,george,0,101,cs-intro,3.71
+96,Elijah Derrick Griffin,msis,science,george,0,102,math-intro,3.38
+96,Elijah Derrick Griffin,msis,science,george,0,103,it-intro,2.16
+96,Elijah Derrick Griffin,msis,science,george,0,102,math-intro,3.9
+96,Elijah Derrick Griffin,msis,science,george,0,201,cs-intrm,2
+96,Elijah Derrick Griffin,msis,science,george,0,301,cs-adv,2.9
+97,Edgar Cody Hall,msis,science,george,0,303,it-adv,3.7
+97,Edgar Cody Hall,msis,science,george,0,303,it-adv,3.34
+97,Edgar Cody Hall,msis,science,george,0,302,math-adv,3.04
+97,Edgar Cody Hall,msis,science,george,0,102,math-intro,3.26
+97,Edgar Cody Hall,msis,science,george,0,101,cs-intro,3.93
+97,Edgar Cody Hall,msis,science,george,0,101,cs-intro,2.98
+98,Marcus Billy Alvarez,msis,science,george,0,102,math-intro,2.05
+98,Marcus Billy Alvarez,msis,science,george,0,203,it-intrm,3.66
+98,Marcus Billy Alvarez,msis,science,george,0,202,math-intrm,2.72
+98,Marcus Billy Alvarez,msis,science,george,0,202,math-intrm,3.81
+98,Marcus Billy Alvarez,msis,science,george,0,101,cs-intro,3.17
+98,Marcus Billy Alvarez,msis,science,george,0,302,math-adv,2.86
+99,Emilie Ina Carson,msis,science,george,0,302,math-adv,3.29
+99,Emilie Ina Carson,msis,science,george,0,302,math-adv,3.14
+99,Emilie Ina Carson,msis,science,george,0,103,it-intro,3.24
+99,Emilie Ina Carson,msis,science,george,0,103,it-intro,2.09
+99,Emilie Ina Carson,msis,science,george,0,102,math-intro,3.31
+99,Emilie Ina Carson,msis,science,george,0,303,it-adv,3.18
+100,Hattie Celia Ferguson,msis,science,george,0,101,cs-intro,3.81
+100,Hattie Celia Ferguson,msis,science,george,0,201,cs-intrm,3.47
+100,Hattie Celia Ferguson,msis,science,george,0,101,cs-intro,3.7
+100,Hattie Celia Ferguson,msis,science,george,0,203,it-intrm,3.38
+100,Hattie Celia Ferguson,msis,science,george,0,103,it-intro,2.97
+100,Hattie Celia Ferguson,msis,science,george,0,102,math-intro,2.5

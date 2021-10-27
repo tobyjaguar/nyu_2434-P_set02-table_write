@@ -37,7 +37,7 @@ function genStudent(maxStudents, maxCourses, saveSize) {
 
   for (let i = 1; i <= maxStudents; i++) {
     id = i;
-    name = chance.first();
+    name = chance.name({ middle: true });
     major = chance.pickone(majors);
     department = chance.pickone(departments);
     advisor = major==='mscs' ? 'mcphearson' : 'george';
