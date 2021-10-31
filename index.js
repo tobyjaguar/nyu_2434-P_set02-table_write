@@ -4,11 +4,11 @@ const randPerm = require('random-permutation');
 const Chance = require('chance');
 
 let chance = new Chance();
-const MAX_DISTRIBUTION = 100;
-const MAX_STUDENTS = 50;
-const MAX_RECORDS = 50;
-const MAX_COURSES = 2;
-const SAVE_SIZE = 5;
+const MAX_DISTRIBUTION = 30000;
+const MAX_STUDENTS = 50000;
+const MAX_RECORDS = 1000000;
+const MAX_COURSES = 6;
+const SAVE_SIZE = 200;
 
 function gen(frac, num) {
   let p = randPerm(num);
