@@ -1,4 +1,5 @@
 const fs = require('fs');
+const {v4: uuidv4} = require('uuid');
 const randPerm = require('random-permutation');
 const Chance = require('chance');
 
@@ -24,7 +25,12 @@ function gen(frac, num) {
 function genStudents(maxStudents) {
   let students = [];
   for (let i = 0; i < maxStudents; i++) {
-    students.push(chance.name({ middle: true }))
+    students.push(
+      {
+        id: uuidv4().slice(0,13),
+        name: chance.name({ middle: true })
+      }
+    );
   }
   return students;
 }
@@ -72,8 +78,8 @@ function genRecords(maxRecords, maxCourses, students, saveSize) {
   let courseSelect = 0;
 
   for (let i = 1; i <= maxRecords; i++) {
-    id = i;
-    name = students[i];
+    id = students[i-1]['id'];
+    name = students[i-1]['name'];
     for (let j = 0; j < maxCourses; j++) {
       let courseIdx = chance.integer({min: 0, max: (courseIds.length - 1)});
       courseId = courseIds[courseIdx];
@@ -128,8 +134,8 @@ function genFracRecords(maxRecords, factStudents, saveSize) {
   let courseSelect = 0;
 
   for (let i = 1; i <= maxRecords; i++) {
-    id = i;
-    name = factStudents[chance.integer({min:0, max: factStudents.length - 1})];
+    id = students[i-1]['id'];
+    name = factStudents[chance.integer({min:0, max: factStudents.length - 1})]['name'];
 
     let courseIdx = chance.integer({min: 0, max: (courseIds.length - 1)});
     courseId = courseIds[courseIdx];
@@ -154,6 +160,7 @@ function genFracRecords(maxRecords, factStudents, saveSize) {
 // generate the distribution set
 let dist = gen(.3,MAX_DISTRIBUTION);
 let students = genStudents(MAX_STUDENTS);
+
 // generate a number of uniform records
 genRecords(MAX_RECORDS, MAX_COURSES, students, SAVE_SIZE);
 // generate a number of fractal records

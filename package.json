@@ -18,6 +18,7 @@
   "homepage": "https://github.com/tobyjaguar/nyu_2434-P_set02-table_write#readme",
   "dependencies": {
     "chance": "^1.1.8",
-    "random-permutation": "*"
+    "random-permutation": "*",
+    "uuid": "^8.3.2"
   }
 }
