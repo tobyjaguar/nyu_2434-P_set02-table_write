@@ -77,7 +77,7 @@ function genRecords(maxRecords, maxCourses, saveSize) {
   ]
   let courseSelect = 0;
 
-  for (let i = 1; i <= maxRecords; i++) {
+  for (let i = 1; i <= (maxRecords/maxCourses); i++) {
     id = uuidv4().slice(0,13);
     name = chance.name({ middle: true });
     for (let j = 0; j < maxCourses; j++) {
@@ -132,11 +132,11 @@ function genFracRecords(maxRecords, factStudents, saveSize) {
     'it-adv'
   ]
   let courseSelect = 0;
-
+  let student = {};
   for (let i = 1; i <= maxRecords; i++) {
-    id = students[i-1]['id'];
-    name = factStudents[chance.integer({min:0, max: factStudents.length - 1})]['name'];
-
+    student = factStudents[chance.integer({min:0, max: factStudents.length - 1})];
+    id = student.id;
+    name = student.name;
     let courseIdx = chance.integer({min: 0, max: (courseIds.length - 1)});
     courseId = courseIds[courseIdx];
     courseName = courseNames[courseIdx];
