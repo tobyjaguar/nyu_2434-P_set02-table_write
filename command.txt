@@ -1,0 +1,2 @@
+run with `node --max-old-space-size=8192 index.js`
+increases the head of node to 8GB.

@@ -45,7 +45,7 @@ function genFracStudents(distArray, nameArray) {
 }
 
 
-function genRecords(maxRecords, maxCourses, students, saveSize) {
+function genRecords(maxRecords, maxCourses, saveSize) {
   // open a file stream for saving to disk
   const stream = fs.createWriteStream('./non-normal-student-reviews.csv', {falgs:'a'});
 
@@ -78,8 +78,8 @@ function genRecords(maxRecords, maxCourses, students, saveSize) {
   let courseSelect = 0;
 
   for (let i = 1; i <= maxRecords; i++) {
-    id = students[i-1]['id'];
-    name = students[i-1]['name'];
+    id = uuidv4().slice(0,13);
+    name = chance.name({ middle: true });
     for (let j = 0; j < maxCourses; j++) {
       let courseIdx = chance.integer({min: 0, max: (courseIds.length - 1)});
       courseId = courseIds[courseIdx];
@@ -157,12 +157,12 @@ function genFracRecords(maxRecords, factStudents, saveSize) {
 } // end gen
 
 
+// generate a number of uniform records
+genRecords(MAX_RECORDS, MAX_COURSES, SAVE_SIZE);
+
 // generate the distribution set
 let dist = gen(.3,MAX_DISTRIBUTION);
 let students = genStudents(MAX_STUDENTS);
-
-// generate a number of uniform records
-genRecords(MAX_RECORDS, MAX_COURSES, students, SAVE_SIZE);
 // generate a number of fractal records
 genFracRecords(MAX_RECORDS, students, SAVE_SIZE);
 
