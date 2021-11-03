@@ -1,0 +1,19 @@
+CREATE TABLE my_table (student_id STRING, student_name STRING, course_id INT, course_name STRING, review_score FLOAT)
+
+LOAD DATA INFILE "non-normal-frac-student-reviews.csv"
+INTO TABLE my_table
+FIELDS TERMINATED BY ","
+
+WITH
+tmp AS (
+SELECT 	student_name, AVG(review_score) as avg_score
+FROM 	my_table
+	ASSUMING ASC student_name
+GROUP BY student_name
+)
+
+SELECT student_name, avg_score from tmp 
+WHERE student_name = "Connor Melvin Underwood"
+
+INTO OUTFILE "reviews_output.csv"
+FIELDS TERMINATED BY "|"

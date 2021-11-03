@@ -1,0 +1,19 @@
+CREATE TABLE students (student_id STRING, student_name STRING)
+CREATE TABLE reviews (student_id STRING, course_id INT, review_score FLOAT)
+
+LOAD DATA INFILE "nf_students_short.csv"
+INTO TABLE students
+FIELDS TERMINATED BY ","
+
+LOAD DATA INFILE "nf_reviews_short.csv"
+INTO TABLE reviews
+FIELDS TERMINATED BY ","
+
+SELECT t1.student_name, AVG(t2.review_score) as avg_score
+FROM students as t1, reviews as t2
+WHERE t1.student_id = t2.student_id
+GROUP BY t1.student_name
+
+
+INTO OUTFILE "reviews_output.csv"
+FIELDS TERMINATED BY "|"
