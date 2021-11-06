@@ -1,0 +1,28 @@
+USE friends;
+
+CREATE TABLE tmp1 AS
+(SELECT artist 
+FROM likes 
+WHERE artist NOT IN
+    (SELECT artist 
+    FROM likes WHERE person = 2534)
+);
+
+CREATE TABLE tmp2 AS
+(SELECT friends_of 
+FROM (SELECT person1 as friends_of
+        FROM friends    
+        WHERE person2 = 2534) as t1
+WHERE t1.friends_of NOT IN
+    (SELECT person2 from friends
+    WHERE person1 = 2534)
+);
+
+SELECT person 
+FROM likes, tmp1, tmp2
+WHERE tmp1.artist = likes.artist
+AND tmp2.friends_of = likes.person
+LIMIT 10; 
+
+DROP TABLE tmp1;
+DROP TABLE tmp2;
