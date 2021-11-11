@@ -1,28 +1,43 @@
-USE friends;
+CREATE TABLE likes(person INT, artist INT);
+CREATE TABLE friends(person1 INT, person2 INT);
 
-CREATE TABLE tmp1 AS
-(SELECT artist 
-FROM likes 
-WHERE artist NOT IN
-    (SELECT artist 
-    FROM likes WHERE person = 2534)
+LOAD DATA LOCAL INFILE
+"/home/tobespierre/dev/NYU/friends/like.txt"
+INTO TABLE likes
+FIELDS TERMINATED BY ","
+LINES TERMINATED BY "\n"
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE
+"/home/tobespierre/dev/NYU/friends/friends.txt"
+INTO TABLE friends
+FIELDS TERMINATED BY ","
+LINES TERMINATED BY "\n"
+IGNORE 1 ROWS;
+
+CREATE INDEX pidx ON likes(person);
+CREATE INDEX aidx ON likes(artist);
+
+CREATE TABLE uberfriends AS
+SELECT person1 AS person, person2 AS friend
+FROM friends
+UNION ALL
+SELECT person2 AS person, person1 AS friend
+FROM friends;
+
+SELECT t1.*, t2.artist 
+FROM uberfriends t1
+INNER JOIN likes t2 
+ON t1.friend = t2.person
+AND NOT EXISTS (
+    SELECT person 
+    FROM likes
+    WHERE likes.person = t1.person
+    AND likes.artist = t2.artist
 );
 
-CREATE TABLE tmp2 AS
-(SELECT friends_of 
-FROM (SELECT person1 as friends_of
-        FROM friends    
-        WHERE person2 = 2534) as t1
-WHERE t1.friends_of NOT IN
-    (SELECT person2 from friends
-    WHERE person1 = 2534)
-);
-
-SELECT person 
-FROM likes, tmp1, tmp2
-WHERE tmp1.artist = likes.artist
-AND tmp2.friends_of = likes.person
-LIMIT 10; 
-
-DROP TABLE tmp1;
-DROP TABLE tmp2;
+DROP INDEX pidx ON likes;
+DROP INDEX aidx ON likes;
+DROP TABLE uberfriends;
+DROP TABLE likes;
+DROP TABLE friends;
